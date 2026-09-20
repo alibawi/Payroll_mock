@@ -1,0 +1,528 @@
+[
+  {
+    "id": "pos-001",
+    "positionCode": "POS-001",
+    "titleAr": "المدير العام",
+    "titleEn": "General Manager",
+    "department": "الإدارة العامة",
+    "sector": null,
+    "reportsTo": null,
+    "jobGrade": "الدرجة الخاصة",
+    "employmentType": "permanent",
+    "requiredQualifications": "شهادة بكالوريوس فأعلى في إدارة الأعمال أو الهندسة",
+    "requiredExperience": "15 سنة فأكثر في مناصب إدارية عليا",
+    "requiredSkills": [
+      "القيادة الاستراتيجية",
+      "اتخاذ القرار",
+      "إدارة أصحاب المصلحة"
+    ],
+    "responsibilities": [
+      "الإشراف العام على كل القطاعات",
+      "اعتماد الأوامر الإدارية العليا",
+      "تمثيل الشركة أمام الجهات الخارجية"
+    ],
+    "authorities": [
+      "اعتماد كل الأوامر الإدارية",
+      "اعتماد الموازنات",
+      "تعيين مدراء الأقسام"
+    ],
+    "kpis": [
+      "نمو الإيرادات السنوي",
+      "رضا العملاء",
+      "الالتزام بالموازنة العامة"
+    ],
+    "competencyRequirements": [
+      "التفكير الاستراتيجي",
+      "إدارة الأزمات"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-002",
+    "positionCode": "POS-002",
+    "titleAr": "مدير الموارد البشرية",
+    "titleEn": "HR Manager",
+    "department": "قسم الموارد البشرية",
+    "sector": null,
+    "reportsTo": "pos-001",
+    "jobGrade": "الدرجة الإدارية العليا",
+    "employmentType": "permanent",
+    "requiredQualifications": "بكالوريوس إدارة أعمال أو موارد بشرية",
+    "requiredExperience": "10 سنوات في إدارة الموارد البشرية",
+    "requiredSkills": [
+      "التخطيط الوظيفي",
+      "إدارة الأداء",
+      "التفاوض"
+    ],
+    "responsibilities": [
+      "الإشراف على كل عمليات HR",
+      "اعتماد سياسات الموارد البشرية",
+      "متابعة دورة حياة الموظف"
+    ],
+    "authorities": [
+      "اعتماد الإجازات",
+      "اعتماد التقييمات",
+      "التوصية بالأوامر الإدارية"
+    ],
+    "kpis": [
+      "معدل دوران الموظفين",
+      "زمن التوظيف",
+      "رضا الموظفين"
+    ],
+    "competencyRequirements": [
+      "القيادة",
+      "حل النزاعات"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-003",
+    "positionCode": "POS-003",
+    "titleAr": "مدير الهندسة والمشاريع",
+    "titleEn": "Engineering & Projects Manager",
+    "department": "قسم الهندسة والمشاريع",
+    "sector": "قطاع الإنشاءات",
+    "reportsTo": "pos-001",
+    "jobGrade": "الدرجة الإدارية العليا",
+    "employmentType": "permanent",
+    "requiredQualifications": "بكالوريوس هندسة مدنية أو إنشائية",
+    "requiredExperience": "12 سنة في إدارة المشاريع الهندسية",
+    "requiredSkills": [
+      "إدارة المشاريع",
+      "القراءة الهندسية",
+      "التخطيط الزمني"
+    ],
+    "responsibilities": [
+      "الإشراف على تنفيذ المشاريع",
+      "متابعة الجداول الزمنية والكلف",
+      "اعتماد التقارير الفنية"
+    ],
+    "authorities": [
+      "اعتماد المخططات التنفيذية",
+      "التوصية بالمقاولين الفرعيين"
+    ],
+    "kpis": [
+      "الالتزام بالجدول الزمني للمشاريع",
+      "نسبة تجاوز الكلفة"
+    ],
+    "competencyRequirements": [
+      "إدارة المخاطر",
+      "القيادة الفنية"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-004",
+    "positionCode": "POS-004",
+    "titleAr": "مدير تقنية المعلومات",
+    "titleEn": "IT Manager",
+    "department": "قسم تقنية المعلومات",
+    "sector": "قطاع الاتصالات",
+    "reportsTo": "pos-001",
+    "jobGrade": "الدرجة الإدارية العليا",
+    "employmentType": "permanent",
+    "requiredQualifications": "بكالوريوس علوم حاسوب أو نظم معلومات",
+    "requiredExperience": "10 سنوات في إدارة تقنية المعلومات",
+    "requiredSkills": [
+      "إدارة البنية التحتية",
+      "أمن المعلومات",
+      "إدارة المشاريع التقنية"
+    ],
+    "responsibilities": [
+      "الإشراف على الأنظمة والبنية التحتية",
+      "اعتماد سياسات أمن المعلومات"
+    ],
+    "authorities": [
+      "اعتماد صلاحيات الوصول للأنظمة",
+      "اعتماد المشتريات التقنية"
+    ],
+    "kpis": [
+      "نسبة توفر الأنظمة",
+      "زمن الاستجابة للأعطال"
+    ],
+    "competencyRequirements": [
+      "التخطيط التقني",
+      "إدارة الفرق التقنية"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-005",
+    "positionCode": "POS-005",
+    "titleAr": "مدير العقود والمشتريات",
+    "titleEn": "Procurement & Contracts Manager",
+    "department": "قسم العقود والمشتريات",
+    "sector": "قطاع النفط والطاقة",
+    "reportsTo": "pos-001",
+    "jobGrade": "الدرجة الإدارية العليا",
+    "employmentType": "permanent",
+    "requiredQualifications": "بكالوريوس إدارة أعمال أو هندسة",
+    "requiredExperience": "10 سنوات في العقود والمشتريات",
+    "requiredSkills": [
+      "التفاوض التعاقدي",
+      "تحليل العروض",
+      "إدارة الموردين"
+    ],
+    "responsibilities": [
+      "الإشراف على دورة الشراء الكاملة",
+      "اعتماد العقود مع الموردين"
+    ],
+    "authorities": [
+      "اعتماد أوامر الشراء",
+      "التوصية بإدراج/استبعاد موردين"
+    ],
+    "kpis": [
+      "نسبة التوفير بالشراء",
+      "زمن دورة التعاقد"
+    ],
+    "competencyRequirements": [
+      "التفاوض",
+      "إدارة المخاطر التعاقدية"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-006",
+    "positionCode": "POS-006",
+    "titleAr": "المدير المالي",
+    "titleEn": "Finance Manager",
+    "department": "قسم المالية والمحاسبة",
+    "sector": null,
+    "reportsTo": "pos-001",
+    "jobGrade": "الدرجة الإدارية العليا",
+    "employmentType": "permanent",
+    "requiredQualifications": "بكالوريوس محاسبة أو مالية",
+    "requiredExperience": "10 سنوات في الإدارة المالية",
+    "requiredSkills": [
+      "التخطيط المالي",
+      "التحليل المالي",
+      "الموازنات"
+    ],
+    "responsibilities": [
+      "الإشراف على الحسابات والموازنة العامة",
+      "اعتماد التقارير المالية"
+    ],
+    "authorities": [
+      "اعتماد الصرف ضمن الصلاحية",
+      "اعتماد التسويات المحاسبية"
+    ],
+    "kpis": [
+      "دقة التقارير المالية",
+      "الالتزام بالموازنة"
+    ],
+    "competencyRequirements": [
+      "التحليل المالي",
+      "الحوكمة المالية"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-007",
+    "positionCode": "POS-007",
+    "titleAr": "مهندس مشاريع أول",
+    "titleEn": "Senior Project Engineer",
+    "department": "قسم الهندسة والمشاريع",
+    "sector": "قطاع الإنشاءات",
+    "reportsTo": "pos-003",
+    "jobGrade": "الدرجة الأولى",
+    "employmentType": "permanent",
+    "requiredQualifications": "بكالوريوس هندسة مدنية",
+    "requiredExperience": "7 سنوات بتنفيذ المشاريع الإنشائية",
+    "requiredSkills": [
+      "AutoCAD",
+      "Primavera",
+      "إدارة المواقع"
+    ],
+    "responsibilities": [
+      "متابعة التنفيذ الميداني",
+      "إعداد التقارير الفنية الدورية"
+    ],
+    "authorities": [
+      "اعتماد أوامر التغيير الطفيفة بالموقع"
+    ],
+    "kpis": [
+      "الالتزام بجودة التنفيذ",
+      "الالتزام الزمني بالمهام"
+    ],
+    "competencyRequirements": [
+      "الدقة الفنية",
+      "حل المشكلات الميدانية"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-008",
+    "positionCode": "POS-008",
+    "titleAr": "مشرف موقع",
+    "titleEn": "Site Supervisor",
+    "department": "قسم الهندسة والمشاريع",
+    "sector": "قطاع الإنشاءات",
+    "reportsTo": "pos-003",
+    "jobGrade": "الدرجة الثالثة",
+    "employmentType": "contract",
+    "requiredQualifications": "دبلوم هندسة أو ما يعادلها",
+    "requiredExperience": "4 سنوات إشراف مواقع",
+    "requiredSkills": [
+      "السلامة المهنية",
+      "قراءة المخططات"
+    ],
+    "responsibilities": [
+      "الإشراف اليومي على العمالة بالموقع",
+      "متابعة السلامة المهنية"
+    ],
+    "authorities": [
+      "إيقاف العمل عند مخالفة السلامة"
+    ],
+    "kpis": [
+      "عدد الحوادث بالموقع",
+      "الالتزام بخطة العمل اليومية"
+    ],
+    "competencyRequirements": [
+      "اليقظة الميدانية"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-009",
+    "positionCode": "POS-009",
+    "titleAr": "أخصائي موارد بشرية",
+    "titleEn": "HR Specialist",
+    "department": "قسم الموارد البشرية",
+    "sector": null,
+    "reportsTo": "pos-002",
+    "jobGrade": "الدرجة الثانية",
+    "employmentType": "permanent",
+    "requiredQualifications": "بكالوريوس إدارة أعمال",
+    "requiredExperience": "3 سنوات بالموارد البشرية",
+    "requiredSkills": [
+      "التوظيف",
+      "إدارة السجلات الوظيفية"
+    ],
+    "responsibilities": [
+      "متابعة ملفات الموظفين",
+      "تنسيق مقابلات التوظيف"
+    ],
+    "authorities": [],
+    "kpis": [
+      "زمن إغلاق طلبات التوظيف",
+      "اكتمال ملفات الموظفين"
+    ],
+    "competencyRequirements": [
+      "التواصل",
+      "الدقة الإدارية"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-010",
+    "positionCode": "POS-010",
+    "titleAr": "مسؤول تعويضات ورواتب",
+    "titleEn": "Compensation & Benefits Officer",
+    "department": "قسم الموارد البشرية",
+    "sector": null,
+    "reportsTo": "pos-002",
+    "jobGrade": "الدرجة الثانية",
+    "employmentType": "contract",
+    "requiredQualifications": "بكالوريوس محاسبة أو إدارة",
+    "requiredExperience": "4 سنوات برواتب ومزايا الموظفين",
+    "requiredSkills": [
+      "احتساب الرواتب",
+      "إدارة المزايا"
+    ],
+    "responsibilities": [
+      "إعداد كشوفات الرواتب الشهرية",
+      "متابعة استحقاقات المزايا"
+    ],
+    "authorities": [],
+    "kpis": [
+      "دقة كشوفات الرواتب",
+      "الالتزام بموعد الصرف"
+    ],
+    "competencyRequirements": [
+      "الدقة الرقمية"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-011",
+    "positionCode": "POS-011",
+    "titleAr": "مطور نظم",
+    "titleEn": "Systems Developer",
+    "department": "قسم تقنية المعلومات",
+    "sector": "قطاع الاتصالات",
+    "reportsTo": "pos-004",
+    "jobGrade": "الدرجة الثانية",
+    "employmentType": "permanent",
+    "requiredQualifications": "بكالوريوس علوم حاسوب",
+    "requiredExperience": "3 سنوات تطوير برمجيات",
+    "requiredSkills": [
+      "TypeScript",
+      "قواعد البيانات",
+      "REST APIs"
+    ],
+    "responsibilities": [
+      "تطوير وصيانة الأنظمة الداخلية",
+      "إصلاح الأعطال البرمجية"
+    ],
+    "authorities": [],
+    "kpis": [
+      "زمن إصلاح الأعطال",
+      "جودة الكود المسلَّم"
+    ],
+    "competencyRequirements": [
+      "حل المشكلات التقنية"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-012",
+    "positionCode": "POS-012",
+    "titleAr": "مسؤول دعم فني",
+    "titleEn": "IT Support Officer",
+    "department": "قسم تقنية المعلومات",
+    "sector": "قطاع الاتصالات",
+    "reportsTo": "pos-004",
+    "jobGrade": "الدرجة الثالثة",
+    "employmentType": "permanent",
+    "requiredQualifications": "دبلوم تقنية معلومات",
+    "requiredExperience": "سنتان دعم فني",
+    "requiredSkills": [
+      "استكشاف الأعطال",
+      "خدمة العملاء الداخلية"
+    ],
+    "responsibilities": [
+      "دعم مستخدمي الأنظمة",
+      "صيانة الأجهزة المكتبية"
+    ],
+    "authorities": [],
+    "kpis": [
+      "زمن الاستجابة لتذاكر الدعم",
+      "رضا المستخدمين الداخليين"
+    ],
+    "competencyRequirements": [
+      "الصبر وخدمة العملاء"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-013",
+    "positionCode": "POS-013",
+    "titleAr": "أخصائي مشتريات",
+    "titleEn": "Procurement Specialist",
+    "department": "قسم العقود والمشتريات",
+    "sector": "قطاع النفط والطاقة",
+    "reportsTo": "pos-005",
+    "jobGrade": "الدرجة الثانية",
+    "employmentType": "contract",
+    "requiredQualifications": "بكالوريوس إدارة أعمال",
+    "requiredExperience": "4 سنوات مشتريات",
+    "requiredSkills": [
+      "تحليل عروض الأسعار",
+      "التفاوض"
+    ],
+    "responsibilities": [
+      "إعداد طلبات الشراء",
+      "متابعة توريد المواد"
+    ],
+    "authorities": [],
+    "kpis": [
+      "زمن دورة الشراء",
+      "نسبة الالتزام بالموازنة"
+    ],
+    "competencyRequirements": [
+      "الدقة التعاقدية"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-014",
+    "positionCode": "POS-014",
+    "titleAr": "محلل عقود",
+    "titleEn": "Contracts Analyst",
+    "department": "قسم العقود والمشتريات",
+    "sector": "قطاع النفط والطاقة",
+    "reportsTo": "pos-005",
+    "jobGrade": "الدرجة الثانية",
+    "employmentType": "permanent",
+    "requiredQualifications": "بكالوريوس قانون أو إدارة أعمال",
+    "requiredExperience": "5 سنوات تحليل عقود",
+    "requiredSkills": [
+      "صياغة العقود",
+      "تحليل المخاطر التعاقدية"
+    ],
+    "responsibilities": [
+      "مراجعة بنود العقود",
+      "متابعة تجديد العقود"
+    ],
+    "authorities": [],
+    "kpis": [
+      "نسبة العقود المجدَّدة بالموعد",
+      "عدد النزاعات التعاقدية"
+    ],
+    "competencyRequirements": [
+      "الدقة القانونية"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-015",
+    "positionCode": "POS-015",
+    "titleAr": "محاسب أول",
+    "titleEn": "Senior Accountant",
+    "department": "قسم المالية والمحاسبة",
+    "sector": null,
+    "reportsTo": "pos-006",
+    "jobGrade": "الدرجة الأولى",
+    "employmentType": "permanent",
+    "requiredQualifications": "بكالوريوس محاسبة",
+    "requiredExperience": "6 سنوات محاسبة",
+    "requiredSkills": [
+      "المحاسبة المالية",
+      "إعداد التقارير الختامية"
+    ],
+    "responsibilities": [
+      "إشراف على القيود المحاسبية",
+      "إعداد التقارير المالية الشهرية"
+    ],
+    "authorities": [
+      "اعتماد القيود ضمن الصلاحية"
+    ],
+    "kpis": [
+      "دقة الإقفال الشهري",
+      "الالتزام بمواعيد التقارير"
+    ],
+    "competencyRequirements": [
+      "الدقة المحاسبية"
+    ],
+    "activeStatus": true
+  },
+  {
+    "id": "pos-016",
+    "positionCode": "POS-016",
+    "titleAr": "محاسب",
+    "titleEn": "Accountant",
+    "department": "قسم المالية والمحاسبة",
+    "sector": null,
+    "reportsTo": "pos-015",
+    "jobGrade": "الدرجة الثالثة",
+    "employmentType": "temporary",
+    "requiredQualifications": "بكالوريوس محاسبة",
+    "requiredExperience": "سنة إلى سنتين محاسبة",
+    "requiredSkills": [
+      "القيد المحاسبي",
+      "برامج المحاسبة الإلكترونية"
+    ],
+    "responsibilities": [
+      "تسجيل القيود اليومية",
+      "مطابقة كشوفات الحسابات"
+    ],
+    "authorities": [],
+    "kpis": [
+      "دقة القيود اليومية"
+    ],
+    "competencyRequirements": [
+      "الدقة الرقمية"
+    ],
+    "activeStatus": true
+  }
+]

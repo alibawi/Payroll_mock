@@ -1,0 +1,251 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-sans);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-secondary-orange: var(--secondary-orange);
+  --color-secondary-green: var(--secondary-green);
+  --color-tile-orange: var(--tile-orange);
+  --color-tile-orange-bg: var(--tile-orange-bg);
+  --color-tile-mint: var(--tile-mint);
+  --color-tile-mint-bg: var(--tile-mint-bg);
+  --color-tile-yellow: var(--tile-yellow);
+  --color-tile-yellow-bg: var(--tile-yellow-bg);
+  --color-tile-sky: var(--tile-sky);
+  --color-tile-sky-bg: var(--tile-sky-bg);
+  --color-tile-slate: var(--tile-slate);
+  --color-tile-slate-bg: var(--tile-slate-bg);
+  --color-tile-pink: var(--tile-pink);
+  --color-tile-pink-bg: var(--tile-pink-bg);
+  --color-tile-blue: var(--tile-blue);
+  --color-tile-blue-bg: var(--tile-blue-bg);
+  --color-tile-amber: var(--tile-amber);
+  --color-tile-amber-bg: var(--tile-amber-bg);
+  --color-tile-teal: var(--tile-teal);
+  --color-tile-teal-bg: var(--tile-teal-bg);
+  --color-tile-violet: var(--tile-violet);
+  --color-tile-violet-bg: var(--tile-violet-bg);
+  --color-tile-lime: var(--tile-lime);
+  --color-tile-lime-bg: var(--tile-lime-bg);
+  --color-tile-indigo: var(--tile-indigo);
+  --color-tile-indigo-bg: var(--tile-indigo-bg);
+  --color-tile-cyan: var(--tile-cyan);
+  --color-tile-cyan-bg: var(--tile-cyan-bg);
+  --color-tile-red: var(--tile-red);
+  --color-tile-red-bg: var(--tile-red-bg);
+  --color-tile-fuchsia: var(--tile-fuchsia);
+  --color-tile-fuchsia-bg: var(--tile-fuchsia-bg);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+/* ENKI brand tokens — see docs/prompts-phase0-and-dms.md (prompt 0.3) */
+@utility bg-brand-gradient {
+  background-image: var(--gradient-brand);
+}
+
+/* Ambient wash behind the floating sidebar panel */
+@utility bg-shell-wash {
+  background-image: var(--gradient-shell-wash);
+  background-color: var(--background);
+}
+
+/* Very soft pastel wash behind the content area (matches the ENKI ERP launcher screenshot) */
+@utility bg-launcher-wash {
+  background-image:
+    radial-gradient(55% 45% at 12% 0%, color-mix(in srgb, var(--accent) 12%, transparent), transparent 70%),
+    radial-gradient(50% 45% at 70% 0%, color-mix(in srgb, var(--tile-fuchsia) 7%, transparent), transparent 70%);
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+:root {
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: #4f41f8;
+  --primary-foreground: #ffffff;
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: #3ed7ff;
+  --accent-foreground: #000000;
+  --secondary-orange: #ffa630;
+  --secondary-green: #397367;
+  --gradient-brand: linear-gradient(to right, #4f41f8, #3ed7ff);
+  --gradient-shell-wash: radial-gradient(120% 90% at 12% 0%, rgba(79, 65, 248, 0.30), transparent 60%),
+    radial-gradient(110% 90% at 100% 100%, rgba(62, 215, 255, 0.28), transparent 55%);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+  --chart-1: oklch(0.87 0 0);
+  --chart-2: oklch(0.556 0 0);
+  --chart-3: oklch(0.439 0 0);
+  --chart-4: oklch(0.371 0 0);
+  --chart-5: oklch(0.269 0 0);
+  --radius: 0.625rem;
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+  --font-sans: var(--font-arabic);
+
+  /* Module launcher tiles (docs/identity.md 2.3): icon colour + soft tinted background.
+     Payroll uses "fuchsia" — a sibling of HR's pink. */
+  --tile-orange: #f26a2e;
+  --tile-mint: #10b981;
+  --tile-yellow: #eab308;
+  --tile-sky: #0ea5e9;
+  --tile-slate: #64748b;
+  --tile-pink: #ec4899;
+  --tile-blue: #4f6bf0;
+  --tile-amber: #e0921a;
+  --tile-teal: #14b8a6;
+  --tile-violet: #8b5cf6;
+  --tile-lime: #84b81f;
+  --tile-indigo: #4f41f8;
+  --tile-cyan: #06b6d4;
+  --tile-red: #ef4444;
+  --tile-fuchsia: #c026d3;
+  --tile-orange-bg: color-mix(in srgb, var(--tile-orange) 14%, transparent);
+  --tile-mint-bg: color-mix(in srgb, var(--tile-mint) 14%, transparent);
+  --tile-yellow-bg: color-mix(in srgb, var(--tile-yellow) 16%, transparent);
+  --tile-sky-bg: color-mix(in srgb, var(--tile-sky) 14%, transparent);
+  --tile-slate-bg: color-mix(in srgb, var(--tile-slate) 14%, transparent);
+  --tile-pink-bg: color-mix(in srgb, var(--tile-pink) 14%, transparent);
+  --tile-blue-bg: color-mix(in srgb, var(--tile-blue) 14%, transparent);
+  --tile-amber-bg: color-mix(in srgb, var(--tile-amber) 16%, transparent);
+  --tile-teal-bg: color-mix(in srgb, var(--tile-teal) 14%, transparent);
+  --tile-violet-bg: color-mix(in srgb, var(--tile-violet) 14%, transparent);
+  --tile-lime-bg: color-mix(in srgb, var(--tile-lime) 16%, transparent);
+  --tile-indigo-bg: color-mix(in srgb, var(--tile-indigo) 14%, transparent);
+  --tile-cyan-bg: color-mix(in srgb, var(--tile-cyan) 14%, transparent);
+  --tile-red-bg: color-mix(in srgb, var(--tile-red) 14%, transparent);
+  --tile-fuchsia-bg: color-mix(in srgb, var(--tile-fuchsia) 14%, transparent);
+}
+
+/* English (LTR) uses the Latin pairing font instead of Cairo */
+[dir="ltr"] {
+  --font-sans: var(--font-geist-sans);
+}
+
+.dark {
+  --background: #0b0f19;
+  --foreground: #f1f3f7;
+  --card: #121729;
+  --card-foreground: #f1f3f7;
+  --popover: #121729;
+  --popover-foreground: #f1f3f7;
+  --primary: #4f41f8;
+  --primary-foreground: #ffffff;
+  --secondary: #1b2233;
+  --secondary-foreground: #f1f3f7;
+  --muted: #1b2233;
+  --muted-foreground: #94a0b8;
+  --accent: #3ed7ff;
+  --accent-foreground: #000000;
+  --secondary-green: #4fae96;
+  /* Lighter tile icon colours for contrast on the dark surface (backgrounds stay derived) */
+  --tile-orange: #ff8a54;
+  --tile-mint: #34d399;
+  --tile-yellow: #facc15;
+  --tile-sky: #38bdf8;
+  --tile-slate: #94a3b8;
+  --tile-pink: #f472b6;
+  --tile-blue: #8197ff;
+  --tile-amber: #f5b042;
+  --tile-teal: #2dd4bf;
+  --tile-violet: #a78bfa;
+  --tile-lime: #a3d840;
+  --tile-indigo: #8b80ff;
+  --tile-cyan: #22d3ee;
+  --tile-red: #f87171;
+  --tile-fuchsia: #e879f9;
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: #232b40;
+  --input: #232b40;
+  --ring: oklch(0.556 0 0);
+  --chart-1: oklch(0.87 0 0);
+  --chart-2: oklch(0.556 0 0);
+  --chart-3: oklch(0.439 0 0);
+  --chart-4: oklch(0.371 0 0);
+  --chart-5: oklch(0.269 0 0);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.556 0 0);
+  --gradient-shell-wash: radial-gradient(120% 90% at 12% 0%, rgba(79, 65, 248, 0.28), transparent 60%),
+    radial-gradient(110% 90% at 100% 100%, rgba(62, 215, 255, 0.2), transparent 55%);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+}
