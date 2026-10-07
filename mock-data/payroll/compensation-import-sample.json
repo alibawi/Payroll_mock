@@ -1,0 +1,120 @@
+{
+  "fileName": "salaries-october-2026.xlsx",
+  "columns": [
+    {
+      "header": "Employee Code",
+      "suggested": "employeeCode",
+      "sample": "EMP-2026-0020"
+    },
+    {
+      "header": "Profile",
+      "suggested": "profileId",
+      "sample": "GOVERNMENT_IQ"
+    },
+    {
+      "header": "Grade",
+      "suggested": "grade",
+      "sample": "8"
+    },
+    {
+      "header": "Step",
+      "suggested": "step",
+      "sample": "2"
+    },
+    {
+      "header": "Base Salary",
+      "suggested": "baseSalary",
+      "sample": ""
+    },
+    {
+      "header": "Effective From",
+      "suggested": "effectiveFrom",
+      "sample": "2026-11-01"
+    },
+    {
+      "header": "Payment",
+      "suggested": "paymentMethod",
+      "sample": "Bank"
+    }
+  ],
+  "rows": [
+    {
+      "row": 2,
+      "employeeCode": "EMP-2026-0020",
+      "profile": "GOVERNMENT_IQ",
+      "grade": 7,
+      "step": 1,
+      "baseSalary": null,
+      "effectiveFrom": "2026-11-01",
+      "paymentMethod": "Bank",
+      "valid": true
+    },
+    {
+      "row": 3,
+      "employeeCode": "EMP-2026-0011",
+      "profile": "PRIVATE_IQ",
+      "grade": null,
+      "step": null,
+      "baseSalary": 850000,
+      "effectiveFrom": "2026-11-01",
+      "paymentMethod": "Bank",
+      "valid": true
+    },
+    {
+      "row": 4,
+      "employeeCode": "EMP-2026-0021",
+      "profile": "PRIVATE_IQ",
+      "grade": null,
+      "step": null,
+      "baseSalary": 380000,
+      "effectiveFrom": "2026-11-01",
+      "paymentMethod": "Cash",
+      "valid": true
+    },
+    {
+      "row": 5,
+      "employeeCode": "EMP-2026-0099",
+      "profile": "PRIVATE_IQ",
+      "grade": null,
+      "step": null,
+      "baseSalary": 700000,
+      "effectiveFrom": "2026-11-01",
+      "paymentMethod": "Bank",
+      "valid": false,
+      "error": {
+        "ar": "الموظف غير موجود في HR",
+        "en": "Employee not found in HR"
+      }
+    },
+    {
+      "row": 6,
+      "employeeCode": "EMP-2026-0015",
+      "profile": "PRIVATE_IQ",
+      "grade": null,
+      "step": null,
+      "baseSalary": 250000,
+      "effectiveFrom": "2026-11-01",
+      "paymentMethod": "Bank",
+      "valid": false,
+      "error": {
+        "ar": "الأجر أقل من الحد الأدنى للأجور (E-3)",
+        "en": "Wage below the minimum wage (E-3)"
+      }
+    },
+    {
+      "row": 7,
+      "employeeCode": "EMP-2026-0013",
+      "profile": "GOVERNMENT_IQ",
+      "grade": 8,
+      "step": 5,
+      "baseSalary": null,
+      "effectiveFrom": "2025-01-01",
+      "paymentMethod": "Bank",
+      "valid": false,
+      "error": {
+        "ar": "تاريخ السريان قبل آخر سجل (E-1)",
+        "en": "Effective date is before the latest record (E-1)"
+      }
+    }
+  ]
+}

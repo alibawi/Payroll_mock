@@ -1,0 +1,676 @@
+[
+  {
+    "id": "st-gov-2026",
+    "code": "GOV_STANDARD",
+    "name": {
+      "ar": "هيكل حكومي قياسي",
+      "en": "Standard government structure"
+    },
+    "profileId": "pf-gov",
+    "effectiveFrom": "2026-01-01",
+    "effectiveTo": null,
+    "isActive": true,
+    "lines": [
+      {
+        "id": "sl-001",
+        "componentId": "pc-01",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 10
+      },
+      {
+        "id": "sl-002",
+        "componentId": "pc-02",
+        "overrideMethod": null,
+        "overrideAmount": 15000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 20
+      },
+      {
+        "id": "sl-003",
+        "componentId": "pc-03",
+        "overrideMethod": null,
+        "overrideAmount": 45000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 30
+      },
+      {
+        "id": "sl-004",
+        "componentId": "pc-04",
+        "overrideMethod": null,
+        "overrideAmount": 150000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 40
+      },
+      {
+        "id": "sl-005",
+        "componentId": "pc-05",
+        "overrideMethod": null,
+        "overrideAmount": 30000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 50
+      },
+      {
+        "id": "sl-006",
+        "componentId": "pc-06",
+        "overrideMethod": null,
+        "overrideAmount": 10000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 60
+      },
+      {
+        "id": "sl-007",
+        "componentId": "pc-09",
+        "overrideMethod": null,
+        "overrideAmount": 50000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 70
+      },
+      {
+        "id": "sl-008",
+        "componentId": "pc-07",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 80
+      },
+      {
+        "id": "sl-009",
+        "componentId": "pc-08",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 90
+      },
+      {
+        "id": "sl-010",
+        "componentId": "pc-10",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 100
+      },
+      {
+        "id": "sl-011",
+        "componentId": "pc-21",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 110
+      },
+      {
+        "id": "sl-012",
+        "componentId": "pc-25",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 120
+      },
+      {
+        "id": "sl-013",
+        "componentId": "pc-23",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 130
+      },
+      {
+        "id": "sl-014",
+        "componentId": "pc-24",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 140
+      },
+      {
+        "id": "sl-015",
+        "componentId": "pc-26",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 150
+      },
+      {
+        "id": "sl-016",
+        "componentId": "pc-27",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 160
+      },
+      {
+        "id": "sl-017",
+        "componentId": "pc-28",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 170
+      },
+      {
+        "id": "sl-018",
+        "componentId": "pc-29",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 180
+      },
+      {
+        "id": "sl-019",
+        "componentId": "pc-31",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 190
+      }
+    ],
+    "createdAt": "2026-01-05T08:30:00Z",
+    "updatedAt": "2026-03-12T10:05:00Z"
+  },
+  {
+    "id": "st-gov-2024",
+    "code": "GOV_STANDARD_2024",
+    "name": {
+      "ar": "هيكل حكومي قياسي (نسخة 2024)",
+      "en": "Standard government structure (2024)"
+    },
+    "profileId": "pf-gov",
+    "effectiveFrom": "2024-01-01",
+    "effectiveTo": "2025-12-31",
+    "isActive": false,
+    "lines": [
+      {
+        "id": "sl-020",
+        "componentId": "pc-01",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 10
+      },
+      {
+        "id": "sl-021",
+        "componentId": "pc-02",
+        "overrideMethod": null,
+        "overrideAmount": 12000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 20
+      },
+      {
+        "id": "sl-022",
+        "componentId": "pc-03",
+        "overrideMethod": null,
+        "overrideAmount": 40000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 30
+      },
+      {
+        "id": "sl-023",
+        "componentId": "pc-04",
+        "overrideMethod": null,
+        "overrideAmount": 120000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 40
+      },
+      {
+        "id": "sl-024",
+        "componentId": "pc-05",
+        "overrideMethod": null,
+        "overrideAmount": 30000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 50
+      },
+      {
+        "id": "sl-025",
+        "componentId": "pc-06",
+        "overrideMethod": null,
+        "overrideAmount": 10000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 60
+      },
+      {
+        "id": "sl-026",
+        "componentId": "pc-21",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 70
+      },
+      {
+        "id": "sl-027",
+        "componentId": "pc-23",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 80
+      },
+      {
+        "id": "sl-028",
+        "componentId": "pc-24",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 90
+      },
+      {
+        "id": "sl-029",
+        "componentId": "pc-26",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 100
+      },
+      {
+        "id": "sl-030",
+        "componentId": "pc-27",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 110
+      },
+      {
+        "id": "sl-031",
+        "componentId": "pc-31",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 120
+      }
+    ],
+    "createdAt": "2024-01-03T09:00:00Z",
+    "updatedAt": "2025-12-31T16:00:00Z"
+  },
+  {
+    "id": "st-priv-admin",
+    "code": "PRIV_ADMIN",
+    "name": {
+      "ar": "هيكل خاص — إدارة",
+      "en": "Private structure — administration"
+    },
+    "profileId": "pf-priv",
+    "effectiveFrom": "2026-01-01",
+    "effectiveTo": null,
+    "isActive": true,
+    "lines": [
+      {
+        "id": "sl-032",
+        "componentId": "pc-12",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 10
+      },
+      {
+        "id": "sl-033",
+        "componentId": "pc-13",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 20
+      },
+      {
+        "id": "sl-034",
+        "componentId": "pc-14",
+        "overrideMethod": null,
+        "overrideAmount": 100000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 30
+      },
+      {
+        "id": "sl-035",
+        "componentId": "pc-16",
+        "overrideMethod": null,
+        "overrideAmount": 25000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 40
+      },
+      {
+        "id": "sl-036",
+        "componentId": "pc-19",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 50
+      },
+      {
+        "id": "sl-037",
+        "componentId": "pc-20",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 60
+      },
+      {
+        "id": "sl-038",
+        "componentId": "pc-22",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 70
+      },
+      {
+        "id": "sl-039",
+        "componentId": "pc-23",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 80
+      },
+      {
+        "id": "sl-040",
+        "componentId": "pc-24",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 90
+      },
+      {
+        "id": "sl-041",
+        "componentId": "pc-26",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 100
+      },
+      {
+        "id": "sl-042",
+        "componentId": "pc-27",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 110
+      },
+      {
+        "id": "sl-043",
+        "componentId": "pc-28",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 120
+      },
+      {
+        "id": "sl-044",
+        "componentId": "pc-29",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 130
+      },
+      {
+        "id": "sl-045",
+        "componentId": "pc-30",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 140
+      },
+      {
+        "id": "sl-046",
+        "componentId": "pc-32",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 150
+      }
+    ],
+    "createdAt": "2026-01-05T08:30:00Z",
+    "updatedAt": "2026-02-18T13:40:00Z"
+  },
+  {
+    "id": "st-priv-workers",
+    "code": "PRIV_WORKERS",
+    "name": {
+      "ar": "هيكل خاص — عمال",
+      "en": "Private structure — workers"
+    },
+    "profileId": "pf-priv",
+    "effectiveFrom": "2026-01-01",
+    "effectiveTo": null,
+    "isActive": true,
+    "lines": [
+      {
+        "id": "sl-047",
+        "componentId": "pc-12",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 10
+      },
+      {
+        "id": "sl-048",
+        "componentId": "pc-13",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 20
+      },
+      {
+        "id": "sl-049",
+        "componentId": "pc-14",
+        "overrideMethod": null,
+        "overrideAmount": 100000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 30
+      },
+      {
+        "id": "sl-050",
+        "componentId": "pc-15",
+        "overrideMethod": null,
+        "overrideAmount": 50000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 40
+      },
+      {
+        "id": "sl-051",
+        "componentId": "pc-18",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": 12,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 50
+      },
+      {
+        "id": "sl-052",
+        "componentId": "pc-17",
+        "overrideMethod": null,
+        "overrideAmount": 40000,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 60
+      },
+      {
+        "id": "sl-053",
+        "componentId": "pc-19",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 70
+      },
+      {
+        "id": "sl-054",
+        "componentId": "pc-22",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 80
+      },
+      {
+        "id": "sl-055",
+        "componentId": "pc-23",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 90
+      },
+      {
+        "id": "sl-056",
+        "componentId": "pc-24",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 100
+      },
+      {
+        "id": "sl-057",
+        "componentId": "pc-26",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 110
+      },
+      {
+        "id": "sl-058",
+        "componentId": "pc-27",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 120
+      },
+      {
+        "id": "sl-059",
+        "componentId": "pc-28",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 130
+      },
+      {
+        "id": "sl-060",
+        "componentId": "pc-29",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 140
+      },
+      {
+        "id": "sl-061",
+        "componentId": "pc-32",
+        "overrideMethod": null,
+        "overrideAmount": null,
+        "overridePercent": null,
+        "overrideExpenseAccountCode": null,
+        "overridePayableAccountCode": null,
+        "sequence": 150
+      }
+    ],
+    "createdAt": "2026-01-05T08:30:00Z",
+    "updatedAt": "2026-04-02T11:20:00Z"
+  }
+]

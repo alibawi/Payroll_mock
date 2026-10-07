@@ -1,0 +1,538 @@
+[
+  {
+    "id": "al-015",
+    "entityType": "tax",
+    "entityId": "tx-priv-2027",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-09-10T11:00:00Z",
+    "summary": {
+      "ar": "إضافة إعدادات ضريبة مستقبلية تبدأ 2027-01-01",
+      "en": "Future tax settings added, effective 2027-01-01"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-019",
+    "entityType": "socialSecurity",
+    "entityId": "ss-2027",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-09-10T11:00:00Z",
+    "summary": {
+      "ar": "إضافة إعداد ضمان مستقبلي (2027)",
+      "en": "Future social-security setting added (2027)"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-009",
+    "entityType": "structure",
+    "entityId": "st-priv-workers",
+    "action": "Updated",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-04-02T11:20:00Z",
+    "summary": {
+      "ar": "تجاوز نسبة بدل الخطورة إلى 12%",
+      "en": "Hazard allowance percent overridden to 12%"
+    },
+    "changes": [
+      {
+        "field": "HAZARD_ALLOWANCE_PRIV.overridePercent",
+        "from": "10",
+        "to": "12"
+      }
+    ]
+  },
+  {
+    "id": "al-026",
+    "entityType": "component",
+    "entityId": "pc-30",
+    "action": "Updated",
+    "actor": {
+      "name": {
+        "ar": "محمد العبيدي",
+        "en": "Mohammed Al-Obaidi"
+      },
+      "role": "financeAccountant"
+    },
+    "timestamp": "2026-03-20T14:00:00Z",
+    "summary": {
+      "ar": "تغيير حساب GL إلى 5190",
+      "en": "GL account changed to 5190"
+    },
+    "changes": [
+      {
+        "field": "payableAccountCode",
+        "from": "2250",
+        "to": "5190"
+      }
+    ]
+  },
+  {
+    "id": "al-004",
+    "entityType": "profile",
+    "entityId": "pf-gov",
+    "action": "Updated",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-03-12T10:05:00Z",
+    "summary": {
+      "ar": "تعديل سقف الاستقطاع الشهري",
+      "en": "Monthly deduction cap updated"
+    },
+    "changes": [
+      {
+        "field": "maxMonthlyDeductionPercent",
+        "from": "30",
+        "to": "25"
+      }
+    ]
+  },
+  {
+    "id": "al-011",
+    "entityType": "gradeScale",
+    "entityId": "gsc-2026",
+    "action": "Updated",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-03-12T10:05:00Z",
+    "summary": {
+      "ar": "رفع الاسمي للدرجة 10 / المرحلة 1",
+      "en": "Grade 10 / step 1 nominal raised"
+    },
+    "changes": [
+      {
+        "field": "10/1.nominalSalary",
+        "from": "340000",
+        "to": "350000"
+      }
+    ]
+  },
+  {
+    "id": "al-003",
+    "entityType": "profile",
+    "entityId": "pf-priv",
+    "action": "Updated",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-02-18T13:40:00Z",
+    "summary": {
+      "ar": "تعديل مضاعف العمل الإضافي",
+      "en": "Overtime multiplier updated"
+    },
+    "changes": [
+      {
+        "field": "overtimeMultiplierNormal",
+        "from": "1.25",
+        "to": "1.5"
+      }
+    ]
+  },
+  {
+    "id": "al-025",
+    "entityType": "component",
+    "entityId": "pc-14",
+    "action": "Updated",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-02-02T09:20:00Z",
+    "summary": {
+      "ar": "إعفاء البند من الضريبة",
+      "en": "Component marked tax-exempt"
+    },
+    "changes": [
+      {
+        "field": "isTaxable",
+        "from": "true",
+        "to": "false"
+      }
+    ]
+  },
+  {
+    "id": "al-024",
+    "entityType": "component",
+    "entityId": "pc-13",
+    "action": "Updated",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-02-02T09:12:00Z",
+    "summary": {
+      "ar": "تفعيل علم الخضوع للضمان",
+      "en": "Social-security base flag enabled"
+    },
+    "changes": [
+      {
+        "field": "isSocialSecurityBase",
+        "from": "false",
+        "to": "true"
+      }
+    ]
+  },
+  {
+    "id": "al-010",
+    "entityType": "gradeScale",
+    "entityId": "gsc-2026",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-01-05T09:30:00Z",
+    "summary": {
+      "ar": "إدخال سلّم الرواتب 2026",
+      "en": "2026 salary scale entered"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-008",
+    "entityType": "structure",
+    "entityId": "st-priv-workers",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-05T09:10:00Z",
+    "summary": {
+      "ar": "إنشاء هيكل العمال (خاص)",
+      "en": "Private workers structure created"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-007",
+    "entityType": "structure",
+    "entityId": "st-priv-admin",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-05T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء هيكل الإدارة (خاص)",
+      "en": "Private administration structure created"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-014",
+    "entityType": "tax",
+    "entityId": "tx-priv-2026",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-05T08:55:00Z",
+    "summary": {
+      "ar": "إضافة إعدادات الضريبة 2026 (خاص)",
+      "en": "2026 tax settings added (private)"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-012",
+    "entityType": "tax",
+    "entityId": "tx-gov-2026",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-05T08:50:00Z",
+    "summary": {
+      "ar": "إضافة إعدادات الضريبة 2026 (حكومي)",
+      "en": "2026 tax settings added (government)"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-013",
+    "entityType": "tax",
+    "entityId": "tx-gov-2024",
+    "action": "Closed",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-05T08:50:00Z",
+    "summary": {
+      "ar": "أُغلق السجل السابق تلقائياً بتاريخ 2025-12-31",
+      "en": "Previous record auto-closed on 2025-12-31"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-005",
+    "entityType": "structure",
+    "entityId": "st-gov-2026",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-05T08:45:00Z",
+    "summary": {
+      "ar": "إنشاء الهيكل الحكومي القياسي",
+      "en": "Standard government structure created"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-023",
+    "entityType": "component",
+    "entityId": "pc-11",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-01-05T08:35:00Z",
+    "summary": {
+      "ar": "إنشاء البند مُطفأً افتراضياً (قرار #9)",
+      "en": "Component created, disabled by default (decision #9)"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-002",
+    "entityType": "profile",
+    "entityId": "pf-priv",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-01-05T08:32:00Z",
+    "summary": {
+      "ar": "إنشاء ملف القطاع الخاص",
+      "en": "Private profile created"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-001",
+    "entityType": "profile",
+    "entityId": "pf-gov",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-01-05T08:30:00Z",
+    "summary": {
+      "ar": "إنشاء ملف القطاع الحكومي",
+      "en": "Government profile created"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-016",
+    "entityType": "pension",
+    "entityId": "pn-2026",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-05T08:30:00Z",
+    "summary": {
+      "ar": "إضافة نسب التقاعد 2026",
+      "en": "2026 pension rates added"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-017",
+    "entityType": "pension",
+    "entityId": "pn-2019",
+    "action": "Closed",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-05T08:30:00Z",
+    "summary": {
+      "ar": "أُغلق السجل السابق بتاريخ 2025-12-31",
+      "en": "Previous record closed on 2025-12-31"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-020",
+    "entityType": "component",
+    "entityId": "pc-01",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-01-05T08:30:00Z",
+    "summary": {
+      "ar": "إنشاء البند",
+      "en": "Component created"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-021",
+    "entityType": "component",
+    "entityId": "pc-12",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-01-05T08:30:00Z",
+    "summary": {
+      "ar": "إنشاء البند",
+      "en": "Component created"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-022",
+    "entityType": "component",
+    "entityId": "pc-23",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-05T08:30:00Z",
+    "summary": {
+      "ar": "إنشاء البند",
+      "en": "Component created"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-006",
+    "entityType": "structure",
+    "entityId": "st-gov-2024",
+    "action": "Deactivated",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2025-12-31T16:00:00Z",
+    "summary": {
+      "ar": "إغلاق نسخة 2024 بتاريخ 2025-12-31",
+      "en": "2024 version closed on 2025-12-31"
+    },
+    "changes": null
+  },
+  {
+    "id": "al-018",
+    "entityType": "socialSecurity",
+    "entityId": "ss-2024",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2024-01-02T08:30:00Z",
+    "summary": {
+      "ar": "اعتماد نسب الضمان وفق القانون 18/2023",
+      "en": "Social-security rates adopted under Law 18/2023"
+    },
+    "changes": null
+  }
+]

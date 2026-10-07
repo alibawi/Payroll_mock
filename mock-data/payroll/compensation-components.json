@@ -1,0 +1,443 @@
+[
+  {
+    "id": "ec-001-1-o1",
+    "compensationId": "ec-001-1",
+    "componentId": "pc-03",
+    "amount": 80000,
+    "percent": null
+  },
+  {
+    "id": "ec-001-1-o2",
+    "compensationId": "ec-001-1",
+    "componentId": "pc-04",
+    "amount": 400000,
+    "percent": null
+  },
+  {
+    "id": "ec-001-1-o3",
+    "compensationId": "ec-001-1",
+    "componentId": "pc-02",
+    "amount": 180000,
+    "percent": null
+  },
+  {
+    "id": "ec-002-2-o1",
+    "compensationId": "ec-002-2",
+    "componentId": "pc-03",
+    "amount": 60000,
+    "percent": null
+  },
+  {
+    "id": "ec-002-2-o2",
+    "compensationId": "ec-002-2",
+    "componentId": "pc-04",
+    "amount": 300000,
+    "percent": null
+  },
+  {
+    "id": "ec-002-2-o3",
+    "compensationId": "ec-002-2",
+    "componentId": "pc-02",
+    "amount": 120000,
+    "percent": null
+  },
+  {
+    "id": "ec-002-3-o1",
+    "compensationId": "ec-002-3",
+    "componentId": "pc-03",
+    "amount": 60000,
+    "percent": null
+  },
+  {
+    "id": "ec-002-3-o2",
+    "compensationId": "ec-002-3",
+    "componentId": "pc-04",
+    "amount": 300000,
+    "percent": null
+  },
+  {
+    "id": "ec-002-3-o3",
+    "compensationId": "ec-002-3",
+    "componentId": "pc-02",
+    "amount": 160000,
+    "percent": null
+  },
+  {
+    "id": "ec-003-4-o1",
+    "compensationId": "ec-003-4",
+    "componentId": "pc-03",
+    "amount": 60000,
+    "percent": null
+  },
+  {
+    "id": "ec-003-4-o2",
+    "compensationId": "ec-003-4",
+    "componentId": "pc-04",
+    "amount": 300000,
+    "percent": null
+  },
+  {
+    "id": "ec-003-4-o3",
+    "compensationId": "ec-003-4",
+    "componentId": "pc-02",
+    "amount": 90000,
+    "percent": null
+  },
+  {
+    "id": "ec-004-5-o1",
+    "compensationId": "ec-004-5",
+    "componentId": "pc-03",
+    "amount": 60000,
+    "percent": null
+  },
+  {
+    "id": "ec-004-5-o2",
+    "compensationId": "ec-004-5",
+    "componentId": "pc-04",
+    "amount": 250000,
+    "percent": null
+  },
+  {
+    "id": "ec-004-5-o3",
+    "compensationId": "ec-004-5",
+    "componentId": "pc-02",
+    "amount": 100000,
+    "percent": null
+  },
+  {
+    "id": "ec-004-6-o1",
+    "compensationId": "ec-004-6",
+    "componentId": "pc-03",
+    "amount": 60000,
+    "percent": null
+  },
+  {
+    "id": "ec-004-6-o2",
+    "compensationId": "ec-004-6",
+    "componentId": "pc-04",
+    "amount": 300000,
+    "percent": null
+  },
+  {
+    "id": "ec-004-6-o3",
+    "compensationId": "ec-004-6",
+    "componentId": "pc-02",
+    "amount": 100000,
+    "percent": null
+  },
+  {
+    "id": "ec-005-7-o1",
+    "compensationId": "ec-005-7",
+    "componentId": "pc-03",
+    "amount": 45000,
+    "percent": null
+  },
+  {
+    "id": "ec-005-7-o2",
+    "compensationId": "ec-005-7",
+    "componentId": "pc-04",
+    "amount": 250000,
+    "percent": null
+  },
+  {
+    "id": "ec-005-7-o3",
+    "compensationId": "ec-005-7",
+    "componentId": "pc-02",
+    "amount": 80000,
+    "percent": null
+  },
+  {
+    "id": "ec-006-8-o1",
+    "compensationId": "ec-006-8",
+    "componentId": "pc-03",
+    "amount": 60000,
+    "percent": null
+  },
+  {
+    "id": "ec-006-8-o2",
+    "compensationId": "ec-006-8",
+    "componentId": "pc-04",
+    "amount": 250000,
+    "percent": null
+  },
+  {
+    "id": "ec-006-8-o3",
+    "compensationId": "ec-006-8",
+    "componentId": "pc-02",
+    "amount": 75000,
+    "percent": null
+  },
+  {
+    "id": "ec-006-9-o1",
+    "compensationId": "ec-006-9",
+    "componentId": "pc-03",
+    "amount": 60000,
+    "percent": null
+  },
+  {
+    "id": "ec-006-9-o2",
+    "compensationId": "ec-006-9",
+    "componentId": "pc-04",
+    "amount": 250000,
+    "percent": null
+  },
+  {
+    "id": "ec-006-9-o3",
+    "compensationId": "ec-006-9",
+    "componentId": "pc-02",
+    "amount": 95000,
+    "percent": null
+  },
+  {
+    "id": "ec-007-10-o1",
+    "compensationId": "ec-007-10",
+    "componentId": "pc-03",
+    "amount": 45000,
+    "percent": null
+  },
+  {
+    "id": "ec-007-10-o2",
+    "compensationId": "ec-007-10",
+    "componentId": "pc-04",
+    "amount": 150000,
+    "percent": null
+  },
+  {
+    "id": "ec-007-10-o3",
+    "compensationId": "ec-007-10",
+    "componentId": "pc-02",
+    "amount": 45000,
+    "percent": null
+  },
+  {
+    "id": "ec-009-11-o1",
+    "compensationId": "ec-009-11",
+    "componentId": "pc-03",
+    "amount": 45000,
+    "percent": null
+  },
+  {
+    "id": "ec-009-11-o2",
+    "compensationId": "ec-009-11",
+    "componentId": "pc-04",
+    "amount": 0,
+    "percent": null
+  },
+  {
+    "id": "ec-009-11-o3",
+    "compensationId": "ec-009-11",
+    "componentId": "pc-02",
+    "amount": 60000,
+    "percent": null
+  },
+  {
+    "id": "ec-009-11-o4",
+    "compensationId": "ec-009-11",
+    "componentId": "pc-07",
+    "amount": null,
+    "percent": null
+  },
+  {
+    "id": "ec-013-12-o1",
+    "compensationId": "ec-013-12",
+    "componentId": "pc-03",
+    "amount": 30000,
+    "percent": null
+  },
+  {
+    "id": "ec-013-12-o2",
+    "compensationId": "ec-013-12",
+    "componentId": "pc-04",
+    "amount": 0,
+    "percent": null
+  },
+  {
+    "id": "ec-013-12-o3",
+    "compensationId": "ec-013-12",
+    "componentId": "pc-02",
+    "amount": 36000,
+    "percent": null
+  },
+  {
+    "id": "ec-017-13-o1",
+    "compensationId": "ec-017-13",
+    "componentId": "pc-03",
+    "amount": 45000,
+    "percent": null
+  },
+  {
+    "id": "ec-017-13-o2",
+    "compensationId": "ec-017-13",
+    "componentId": "pc-04",
+    "amount": 0,
+    "percent": null
+  },
+  {
+    "id": "ec-017-13-o3",
+    "compensationId": "ec-017-13",
+    "componentId": "pc-02",
+    "amount": 24000,
+    "percent": null
+  },
+  {
+    "id": "ec-008-14-o1",
+    "compensationId": "ec-008-14",
+    "componentId": "pc-13",
+    "amount": 200000,
+    "percent": null
+  },
+  {
+    "id": "ec-008-14-o2",
+    "compensationId": "ec-008-14",
+    "componentId": "pc-14",
+    "amount": 100000,
+    "percent": null
+  },
+  {
+    "id": "ec-008-14-o3",
+    "compensationId": "ec-008-14",
+    "componentId": "pc-16",
+    "amount": 0,
+    "percent": null
+  },
+  {
+    "id": "ec-010-15-o1",
+    "compensationId": "ec-010-15",
+    "componentId": "pc-13",
+    "amount": 120000,
+    "percent": null
+  },
+  {
+    "id": "ec-010-15-o2",
+    "compensationId": "ec-010-15",
+    "componentId": "pc-14",
+    "amount": 100000,
+    "percent": null
+  },
+  {
+    "id": "ec-010-15-o3",
+    "compensationId": "ec-010-15",
+    "componentId": "pc-15",
+    "amount": 50000,
+    "percent": null
+  },
+  {
+    "id": "ec-010-15-o4",
+    "compensationId": "ec-010-15",
+    "componentId": "pc-18",
+    "amount": null,
+    "percent": 12
+  },
+  {
+    "id": "ec-012-17-o1",
+    "compensationId": "ec-012-17",
+    "componentId": "pc-13",
+    "amount": 200000,
+    "percent": null
+  },
+  {
+    "id": "ec-012-17-o2",
+    "compensationId": "ec-012-17",
+    "componentId": "pc-14",
+    "amount": 100000,
+    "percent": null
+  },
+  {
+    "id": "ec-012-18-o1",
+    "compensationId": "ec-012-18",
+    "componentId": "pc-13",
+    "amount": 200000,
+    "percent": null
+  },
+  {
+    "id": "ec-012-18-o2",
+    "compensationId": "ec-012-18",
+    "componentId": "pc-14",
+    "amount": 100000,
+    "percent": null
+  },
+  {
+    "id": "ec-012-18-o3",
+    "compensationId": "ec-012-18",
+    "componentId": "pc-16",
+    "amount": 25000,
+    "percent": null
+  },
+  {
+    "id": "ec-014-19-o1",
+    "compensationId": "ec-014-19",
+    "componentId": "pc-13",
+    "amount": 150000,
+    "percent": null
+  },
+  {
+    "id": "ec-014-19-o2",
+    "compensationId": "ec-014-19",
+    "componentId": "pc-14",
+    "amount": 100000,
+    "percent": null
+  },
+  {
+    "id": "ec-014-19-o3",
+    "compensationId": "ec-014-19",
+    "componentId": "pc-16",
+    "amount": 25000,
+    "percent": null
+  },
+  {
+    "id": "ec-015-20-o1",
+    "compensationId": "ec-015-20",
+    "componentId": "pc-13",
+    "amount": 250000,
+    "percent": null
+  },
+  {
+    "id": "ec-015-20-o2",
+    "compensationId": "ec-015-20",
+    "componentId": "pc-14",
+    "amount": 100000,
+    "percent": null
+  },
+  {
+    "id": "ec-015-20-o3",
+    "compensationId": "ec-015-20",
+    "componentId": "pc-16",
+    "amount": 25000,
+    "percent": null
+  },
+  {
+    "id": "ec-016-21-o1",
+    "compensationId": "ec-016-21",
+    "componentId": "pc-13",
+    "amount": 100000,
+    "percent": null
+  },
+  {
+    "id": "ec-016-21-o2",
+    "compensationId": "ec-016-21",
+    "componentId": "pc-14",
+    "amount": 100000,
+    "percent": null
+  },
+  {
+    "id": "ec-018-22-o1",
+    "compensationId": "ec-018-22",
+    "componentId": "pc-13",
+    "amount": 120000,
+    "percent": null
+  },
+  {
+    "id": "ec-018-22-o2",
+    "compensationId": "ec-018-22",
+    "componentId": "pc-14",
+    "amount": 100000,
+    "percent": null
+  },
+  {
+    "id": "ec-021-23-o1",
+    "compensationId": "ec-021-23",
+    "componentId": "pc-14",
+    "amount": 50000,
+    "percent": null
+  }
+]

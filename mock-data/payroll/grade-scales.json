@@ -1,0 +1,788 @@
+[
+  {
+    "id": "gsc-2026",
+    "code": "GOV_SCALE_2026",
+    "name": {
+      "ar": "سلّم رواتب موظفي الدولة 2026",
+      "en": "State employees salary scale 2026"
+    },
+    "profileId": "pf-gov",
+    "effectiveFrom": "2026-01-01",
+    "effectiveTo": null,
+    "isActive": true,
+    "steps": [
+      {
+        "id": "gs-1-1",
+        "grade": 1,
+        "step": 1,
+        "nominalSalary": 1450000,
+        "annualIncrementAmount": 45000
+      },
+      {
+        "id": "gs-1-2",
+        "grade": 1,
+        "step": 2,
+        "nominalSalary": 1495000,
+        "annualIncrementAmount": 45000
+      },
+      {
+        "id": "gs-1-3",
+        "grade": 1,
+        "step": 3,
+        "nominalSalary": 1540000,
+        "annualIncrementAmount": 45000
+      },
+      {
+        "id": "gs-1-4",
+        "grade": 1,
+        "step": 4,
+        "nominalSalary": 1585000,
+        "annualIncrementAmount": 45000
+      },
+      {
+        "id": "gs-1-5",
+        "grade": 1,
+        "step": 5,
+        "nominalSalary": 1630000,
+        "annualIncrementAmount": 45000
+      },
+      {
+        "id": "gs-1-6",
+        "grade": 1,
+        "step": 6,
+        "nominalSalary": 1675000,
+        "annualIncrementAmount": 45000
+      },
+      {
+        "id": "gs-1-7",
+        "grade": 1,
+        "step": 7,
+        "nominalSalary": 1720000,
+        "annualIncrementAmount": 45000
+      },
+      {
+        "id": "gs-1-8",
+        "grade": 1,
+        "step": 8,
+        "nominalSalary": 1765000,
+        "annualIncrementAmount": 45000
+      },
+      {
+        "id": "gs-1-9",
+        "grade": 1,
+        "step": 9,
+        "nominalSalary": 1810000,
+        "annualIncrementAmount": 45000
+      },
+      {
+        "id": "gs-1-10",
+        "grade": 1,
+        "step": 10,
+        "nominalSalary": 1855000,
+        "annualIncrementAmount": 45000
+      },
+      {
+        "id": "gs-1-11",
+        "grade": 1,
+        "step": 11,
+        "nominalSalary": 1900000,
+        "annualIncrementAmount": 45000
+      },
+      {
+        "id": "gs-2-1",
+        "grade": 2,
+        "step": 1,
+        "nominalSalary": 1250000,
+        "annualIncrementAmount": 40000
+      },
+      {
+        "id": "gs-2-2",
+        "grade": 2,
+        "step": 2,
+        "nominalSalary": 1290000,
+        "annualIncrementAmount": 40000
+      },
+      {
+        "id": "gs-2-3",
+        "grade": 2,
+        "step": 3,
+        "nominalSalary": 1330000,
+        "annualIncrementAmount": 40000
+      },
+      {
+        "id": "gs-2-4",
+        "grade": 2,
+        "step": 4,
+        "nominalSalary": 1370000,
+        "annualIncrementAmount": 40000
+      },
+      {
+        "id": "gs-2-5",
+        "grade": 2,
+        "step": 5,
+        "nominalSalary": 1410000,
+        "annualIncrementAmount": 40000
+      },
+      {
+        "id": "gs-2-6",
+        "grade": 2,
+        "step": 6,
+        "nominalSalary": 1450000,
+        "annualIncrementAmount": 40000
+      },
+      {
+        "id": "gs-2-7",
+        "grade": 2,
+        "step": 7,
+        "nominalSalary": 1490000,
+        "annualIncrementAmount": 40000
+      },
+      {
+        "id": "gs-2-8",
+        "grade": 2,
+        "step": 8,
+        "nominalSalary": 1530000,
+        "annualIncrementAmount": 40000
+      },
+      {
+        "id": "gs-2-9",
+        "grade": 2,
+        "step": 9,
+        "nominalSalary": 1570000,
+        "annualIncrementAmount": 40000
+      },
+      {
+        "id": "gs-2-10",
+        "grade": 2,
+        "step": 10,
+        "nominalSalary": 1610000,
+        "annualIncrementAmount": 40000
+      },
+      {
+        "id": "gs-2-11",
+        "grade": 2,
+        "step": 11,
+        "nominalSalary": 1650000,
+        "annualIncrementAmount": 40000
+      },
+      {
+        "id": "gs-3-1",
+        "grade": 3,
+        "step": 1,
+        "nominalSalary": 1080000,
+        "annualIncrementAmount": 35000
+      },
+      {
+        "id": "gs-3-2",
+        "grade": 3,
+        "step": 2,
+        "nominalSalary": 1115000,
+        "annualIncrementAmount": 35000
+      },
+      {
+        "id": "gs-3-3",
+        "grade": 3,
+        "step": 3,
+        "nominalSalary": 1150000,
+        "annualIncrementAmount": 35000
+      },
+      {
+        "id": "gs-3-4",
+        "grade": 3,
+        "step": 4,
+        "nominalSalary": 1185000,
+        "annualIncrementAmount": 35000
+      },
+      {
+        "id": "gs-3-5",
+        "grade": 3,
+        "step": 5,
+        "nominalSalary": 1220000,
+        "annualIncrementAmount": 35000
+      },
+      {
+        "id": "gs-3-6",
+        "grade": 3,
+        "step": 6,
+        "nominalSalary": 1255000,
+        "annualIncrementAmount": 35000
+      },
+      {
+        "id": "gs-3-7",
+        "grade": 3,
+        "step": 7,
+        "nominalSalary": 1290000,
+        "annualIncrementAmount": 35000
+      },
+      {
+        "id": "gs-3-8",
+        "grade": 3,
+        "step": 8,
+        "nominalSalary": 1325000,
+        "annualIncrementAmount": 35000
+      },
+      {
+        "id": "gs-3-9",
+        "grade": 3,
+        "step": 9,
+        "nominalSalary": 1360000,
+        "annualIncrementAmount": 35000
+      },
+      {
+        "id": "gs-3-10",
+        "grade": 3,
+        "step": 10,
+        "nominalSalary": 1395000,
+        "annualIncrementAmount": 35000
+      },
+      {
+        "id": "gs-3-11",
+        "grade": 3,
+        "step": 11,
+        "nominalSalary": 1430000,
+        "annualIncrementAmount": 35000
+      },
+      {
+        "id": "gs-4-1",
+        "grade": 4,
+        "step": 1,
+        "nominalSalary": 930000,
+        "annualIncrementAmount": 30000
+      },
+      {
+        "id": "gs-4-2",
+        "grade": 4,
+        "step": 2,
+        "nominalSalary": 960000,
+        "annualIncrementAmount": 30000
+      },
+      {
+        "id": "gs-4-3",
+        "grade": 4,
+        "step": 3,
+        "nominalSalary": 990000,
+        "annualIncrementAmount": 30000
+      },
+      {
+        "id": "gs-4-4",
+        "grade": 4,
+        "step": 4,
+        "nominalSalary": 1020000,
+        "annualIncrementAmount": 30000
+      },
+      {
+        "id": "gs-4-5",
+        "grade": 4,
+        "step": 5,
+        "nominalSalary": 1050000,
+        "annualIncrementAmount": 30000
+      },
+      {
+        "id": "gs-4-6",
+        "grade": 4,
+        "step": 6,
+        "nominalSalary": 1080000,
+        "annualIncrementAmount": 30000
+      },
+      {
+        "id": "gs-4-7",
+        "grade": 4,
+        "step": 7,
+        "nominalSalary": 1110000,
+        "annualIncrementAmount": 30000
+      },
+      {
+        "id": "gs-4-8",
+        "grade": 4,
+        "step": 8,
+        "nominalSalary": 1140000,
+        "annualIncrementAmount": 30000
+      },
+      {
+        "id": "gs-4-9",
+        "grade": 4,
+        "step": 9,
+        "nominalSalary": 1170000,
+        "annualIncrementAmount": 30000
+      },
+      {
+        "id": "gs-4-10",
+        "grade": 4,
+        "step": 10,
+        "nominalSalary": 1200000,
+        "annualIncrementAmount": 30000
+      },
+      {
+        "id": "gs-4-11",
+        "grade": 4,
+        "step": 11,
+        "nominalSalary": 1230000,
+        "annualIncrementAmount": 30000
+      },
+      {
+        "id": "gs-5-1",
+        "grade": 5,
+        "step": 1,
+        "nominalSalary": 800000,
+        "annualIncrementAmount": 25000
+      },
+      {
+        "id": "gs-5-2",
+        "grade": 5,
+        "step": 2,
+        "nominalSalary": 825000,
+        "annualIncrementAmount": 25000
+      },
+      {
+        "id": "gs-5-3",
+        "grade": 5,
+        "step": 3,
+        "nominalSalary": 850000,
+        "annualIncrementAmount": 25000
+      },
+      {
+        "id": "gs-5-4",
+        "grade": 5,
+        "step": 4,
+        "nominalSalary": 875000,
+        "annualIncrementAmount": 25000
+      },
+      {
+        "id": "gs-5-5",
+        "grade": 5,
+        "step": 5,
+        "nominalSalary": 900000,
+        "annualIncrementAmount": 25000
+      },
+      {
+        "id": "gs-5-6",
+        "grade": 5,
+        "step": 6,
+        "nominalSalary": 925000,
+        "annualIncrementAmount": 25000
+      },
+      {
+        "id": "gs-5-7",
+        "grade": 5,
+        "step": 7,
+        "nominalSalary": 950000,
+        "annualIncrementAmount": 25000
+      },
+      {
+        "id": "gs-5-8",
+        "grade": 5,
+        "step": 8,
+        "nominalSalary": 975000,
+        "annualIncrementAmount": 25000
+      },
+      {
+        "id": "gs-5-9",
+        "grade": 5,
+        "step": 9,
+        "nominalSalary": 1000000,
+        "annualIncrementAmount": 25000
+      },
+      {
+        "id": "gs-5-10",
+        "grade": 5,
+        "step": 10,
+        "nominalSalary": 1025000,
+        "annualIncrementAmount": 25000
+      },
+      {
+        "id": "gs-5-11",
+        "grade": 5,
+        "step": 11,
+        "nominalSalary": 1050000,
+        "annualIncrementAmount": 25000
+      },
+      {
+        "id": "gs-6-1",
+        "grade": 6,
+        "step": 1,
+        "nominalSalary": 690000,
+        "annualIncrementAmount": 20000
+      },
+      {
+        "id": "gs-6-2",
+        "grade": 6,
+        "step": 2,
+        "nominalSalary": 710000,
+        "annualIncrementAmount": 20000
+      },
+      {
+        "id": "gs-6-3",
+        "grade": 6,
+        "step": 3,
+        "nominalSalary": 730000,
+        "annualIncrementAmount": 20000
+      },
+      {
+        "id": "gs-6-4",
+        "grade": 6,
+        "step": 4,
+        "nominalSalary": 750000,
+        "annualIncrementAmount": 20000
+      },
+      {
+        "id": "gs-6-5",
+        "grade": 6,
+        "step": 5,
+        "nominalSalary": 770000,
+        "annualIncrementAmount": 20000
+      },
+      {
+        "id": "gs-6-6",
+        "grade": 6,
+        "step": 6,
+        "nominalSalary": 790000,
+        "annualIncrementAmount": 20000
+      },
+      {
+        "id": "gs-6-7",
+        "grade": 6,
+        "step": 7,
+        "nominalSalary": 810000,
+        "annualIncrementAmount": 20000
+      },
+      {
+        "id": "gs-6-8",
+        "grade": 6,
+        "step": 8,
+        "nominalSalary": 830000,
+        "annualIncrementAmount": 20000
+      },
+      {
+        "id": "gs-6-9",
+        "grade": 6,
+        "step": 9,
+        "nominalSalary": 850000,
+        "annualIncrementAmount": 20000
+      },
+      {
+        "id": "gs-6-10",
+        "grade": 6,
+        "step": 10,
+        "nominalSalary": 870000,
+        "annualIncrementAmount": 20000
+      },
+      {
+        "id": "gs-6-11",
+        "grade": 6,
+        "step": 11,
+        "nominalSalary": 890000,
+        "annualIncrementAmount": 20000
+      },
+      {
+        "id": "gs-7-1",
+        "grade": 7,
+        "step": 1,
+        "nominalSalary": 590000,
+        "annualIncrementAmount": 15000
+      },
+      {
+        "id": "gs-7-2",
+        "grade": 7,
+        "step": 2,
+        "nominalSalary": 605000,
+        "annualIncrementAmount": 15000
+      },
+      {
+        "id": "gs-7-3",
+        "grade": 7,
+        "step": 3,
+        "nominalSalary": 620000,
+        "annualIncrementAmount": 15000
+      },
+      {
+        "id": "gs-7-4",
+        "grade": 7,
+        "step": 4,
+        "nominalSalary": 635000,
+        "annualIncrementAmount": 15000
+      },
+      {
+        "id": "gs-7-5",
+        "grade": 7,
+        "step": 5,
+        "nominalSalary": 650000,
+        "annualIncrementAmount": 15000
+      },
+      {
+        "id": "gs-7-6",
+        "grade": 7,
+        "step": 6,
+        "nominalSalary": 665000,
+        "annualIncrementAmount": 15000
+      },
+      {
+        "id": "gs-7-7",
+        "grade": 7,
+        "step": 7,
+        "nominalSalary": 680000,
+        "annualIncrementAmount": 15000
+      },
+      {
+        "id": "gs-7-8",
+        "grade": 7,
+        "step": 8,
+        "nominalSalary": 695000,
+        "annualIncrementAmount": 15000
+      },
+      {
+        "id": "gs-7-9",
+        "grade": 7,
+        "step": 9,
+        "nominalSalary": 710000,
+        "annualIncrementAmount": 15000
+      },
+      {
+        "id": "gs-7-10",
+        "grade": 7,
+        "step": 10,
+        "nominalSalary": 725000,
+        "annualIncrementAmount": 15000
+      },
+      {
+        "id": "gs-7-11",
+        "grade": 7,
+        "step": 11,
+        "nominalSalary": 740000,
+        "annualIncrementAmount": 15000
+      },
+      {
+        "id": "gs-8-1",
+        "grade": 8,
+        "step": 1,
+        "nominalSalary": 500000,
+        "annualIncrementAmount": 12000
+      },
+      {
+        "id": "gs-8-2",
+        "grade": 8,
+        "step": 2,
+        "nominalSalary": 512000,
+        "annualIncrementAmount": 12000
+      },
+      {
+        "id": "gs-8-3",
+        "grade": 8,
+        "step": 3,
+        "nominalSalary": 524000,
+        "annualIncrementAmount": 12000
+      },
+      {
+        "id": "gs-8-4",
+        "grade": 8,
+        "step": 4,
+        "nominalSalary": 536000,
+        "annualIncrementAmount": 12000
+      },
+      {
+        "id": "gs-8-5",
+        "grade": 8,
+        "step": 5,
+        "nominalSalary": 548000,
+        "annualIncrementAmount": 12000
+      },
+      {
+        "id": "gs-8-6",
+        "grade": 8,
+        "step": 6,
+        "nominalSalary": 560000,
+        "annualIncrementAmount": 12000
+      },
+      {
+        "id": "gs-8-7",
+        "grade": 8,
+        "step": 7,
+        "nominalSalary": 572000,
+        "annualIncrementAmount": 12000
+      },
+      {
+        "id": "gs-8-8",
+        "grade": 8,
+        "step": 8,
+        "nominalSalary": 584000,
+        "annualIncrementAmount": 12000
+      },
+      {
+        "id": "gs-8-9",
+        "grade": 8,
+        "step": 9,
+        "nominalSalary": 596000,
+        "annualIncrementAmount": 12000
+      },
+      {
+        "id": "gs-8-10",
+        "grade": 8,
+        "step": 10,
+        "nominalSalary": 608000,
+        "annualIncrementAmount": 12000
+      },
+      {
+        "id": "gs-8-11",
+        "grade": 8,
+        "step": 11,
+        "nominalSalary": 620000,
+        "annualIncrementAmount": 12000
+      },
+      {
+        "id": "gs-9-1",
+        "grade": 9,
+        "step": 1,
+        "nominalSalary": 420000,
+        "annualIncrementAmount": 10000
+      },
+      {
+        "id": "gs-9-2",
+        "grade": 9,
+        "step": 2,
+        "nominalSalary": 430000,
+        "annualIncrementAmount": 10000
+      },
+      {
+        "id": "gs-9-3",
+        "grade": 9,
+        "step": 3,
+        "nominalSalary": 440000,
+        "annualIncrementAmount": 10000
+      },
+      {
+        "id": "gs-9-4",
+        "grade": 9,
+        "step": 4,
+        "nominalSalary": 450000,
+        "annualIncrementAmount": 10000
+      },
+      {
+        "id": "gs-9-5",
+        "grade": 9,
+        "step": 5,
+        "nominalSalary": 460000,
+        "annualIncrementAmount": 10000
+      },
+      {
+        "id": "gs-9-6",
+        "grade": 9,
+        "step": 6,
+        "nominalSalary": 470000,
+        "annualIncrementAmount": 10000
+      },
+      {
+        "id": "gs-9-7",
+        "grade": 9,
+        "step": 7,
+        "nominalSalary": 480000,
+        "annualIncrementAmount": 10000
+      },
+      {
+        "id": "gs-9-8",
+        "grade": 9,
+        "step": 8,
+        "nominalSalary": 490000,
+        "annualIncrementAmount": 10000
+      },
+      {
+        "id": "gs-9-9",
+        "grade": 9,
+        "step": 9,
+        "nominalSalary": 500000,
+        "annualIncrementAmount": 10000
+      },
+      {
+        "id": "gs-9-10",
+        "grade": 9,
+        "step": 10,
+        "nominalSalary": 510000,
+        "annualIncrementAmount": 10000
+      },
+      {
+        "id": "gs-9-11",
+        "grade": 9,
+        "step": 11,
+        "nominalSalary": 520000,
+        "annualIncrementAmount": 10000
+      },
+      {
+        "id": "gs-10-1",
+        "grade": 10,
+        "step": 1,
+        "nominalSalary": 350000,
+        "annualIncrementAmount": 8000
+      },
+      {
+        "id": "gs-10-2",
+        "grade": 10,
+        "step": 2,
+        "nominalSalary": 358000,
+        "annualIncrementAmount": 8000
+      },
+      {
+        "id": "gs-10-3",
+        "grade": 10,
+        "step": 3,
+        "nominalSalary": 366000,
+        "annualIncrementAmount": 8000
+      },
+      {
+        "id": "gs-10-4",
+        "grade": 10,
+        "step": 4,
+        "nominalSalary": 374000,
+        "annualIncrementAmount": 8000
+      },
+      {
+        "id": "gs-10-5",
+        "grade": 10,
+        "step": 5,
+        "nominalSalary": 382000,
+        "annualIncrementAmount": 8000
+      },
+      {
+        "id": "gs-10-6",
+        "grade": 10,
+        "step": 6,
+        "nominalSalary": 390000,
+        "annualIncrementAmount": 8000
+      },
+      {
+        "id": "gs-10-7",
+        "grade": 10,
+        "step": 7,
+        "nominalSalary": 398000,
+        "annualIncrementAmount": 8000
+      },
+      {
+        "id": "gs-10-8",
+        "grade": 10,
+        "step": 8,
+        "nominalSalary": 406000,
+        "annualIncrementAmount": 8000
+      },
+      {
+        "id": "gs-10-9",
+        "grade": 10,
+        "step": 9,
+        "nominalSalary": 414000,
+        "annualIncrementAmount": 8000
+      },
+      {
+        "id": "gs-10-10",
+        "grade": 10,
+        "step": 10,
+        "nominalSalary": 422000,
+        "annualIncrementAmount": 8000
+      },
+      {
+        "id": "gs-10-11",
+        "grade": 10,
+        "step": 11,
+        "nominalSalary": 430000,
+        "annualIncrementAmount": 8000
+      }
+    ],
+    "createdAt": "2026-01-05T08:30:00Z",
+    "updatedAt": "2026-03-12T10:05:00Z"
+  }
+]

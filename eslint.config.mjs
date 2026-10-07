@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // One-off CommonJS seed generators / smoke checks (not part of the app).
+    "scripts/**",
   ]),
 ]);
 

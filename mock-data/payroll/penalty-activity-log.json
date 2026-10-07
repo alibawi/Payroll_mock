@@ -1,0 +1,342 @@
+[
+  {
+    "id": "pa-014",
+    "penaltyId": "pen-0006",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-10-05T10:00:00Z",
+    "summary": {
+      "ar": "إنشاء العقوبة — القرار DISC-2026-018",
+      "en": "Penalty created — decision DISC-2026-018"
+    }
+  },
+  {
+    "id": "pa-011",
+    "penaltyId": "pen-0004",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-10-04T10:00:00Z",
+    "summary": {
+      "ar": "إنشاء العقوبة — القرار DISC-2026-017",
+      "en": "Penalty created — decision DISC-2026-017"
+    }
+  },
+  {
+    "id": "pa-015",
+    "penaltyId": "pen-0007",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-10-01T10:00:00Z",
+    "summary": {
+      "ar": "إنشاء العقوبة — القرار DISC-2026-015",
+      "en": "Penalty created — decision DISC-2026-015"
+    }
+  },
+  {
+    "id": "pa-016",
+    "penaltyId": "pen-0007",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-10-01T10:00:00Z",
+    "summary": {
+      "ar": "اعتماد العقوبة وتوليد الأقساط",
+      "en": "Approved; instalments generated"
+    }
+  },
+  {
+    "id": "pa-006",
+    "penaltyId": "pen-0002",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 2 من راتب 2026-09",
+      "en": "Instalment 2 deducted from 2026-09 payroll"
+    }
+  },
+  {
+    "id": "pa-019",
+    "penaltyId": "pen-0008",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 1 من راتب 2026-09",
+      "en": "Instalment 1 deducted from 2026-09 payroll"
+    }
+  },
+  {
+    "id": "pa-020",
+    "penaltyId": "pen-0008",
+    "action": "Applied",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-30T10:00:00Z",
+    "summary": {
+      "ar": "اكتمل استقطاع العقوبة",
+      "en": "Penalty fully applied"
+    }
+  },
+  {
+    "id": "pa-001",
+    "penaltyId": "pen-0001",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-09-28T10:00:00Z",
+    "summary": {
+      "ar": "إنشاء العقوبة — القرار DISC-2026-014",
+      "en": "Penalty created — decision DISC-2026-014"
+    }
+  },
+  {
+    "id": "pa-002",
+    "penaltyId": "pen-0001",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-09-28T10:00:00Z",
+    "summary": {
+      "ar": "اعتماد العقوبة وتوليد الأقساط",
+      "en": "Approved; instalments generated"
+    }
+  },
+  {
+    "id": "pa-005",
+    "penaltyId": "pen-0002",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-08-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 1 من راتب 2026-08",
+      "en": "Instalment 1 deducted from 2026-08 payroll"
+    }
+  },
+  {
+    "id": "pa-017",
+    "penaltyId": "pen-0008",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-08-30T10:00:00Z",
+    "summary": {
+      "ar": "إنشاء العقوبة — القرار DISC-2026-012",
+      "en": "Penalty created — decision DISC-2026-012"
+    }
+  },
+  {
+    "id": "pa-018",
+    "penaltyId": "pen-0008",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-08-30T10:00:00Z",
+    "summary": {
+      "ar": "اعتماد العقوبة وتوليد الأقساط",
+      "en": "Approved; instalments generated"
+    }
+  },
+  {
+    "id": "pa-009",
+    "penaltyId": "pen-0003",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-07-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 1 من راتب 2026-07",
+      "en": "Instalment 1 deducted from 2026-07 payroll"
+    }
+  },
+  {
+    "id": "pa-010",
+    "penaltyId": "pen-0003",
+    "action": "Applied",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-07-31T10:00:00Z",
+    "summary": {
+      "ar": "اكتمل استقطاع العقوبة",
+      "en": "Penalty fully applied"
+    }
+  },
+  {
+    "id": "pa-003",
+    "penaltyId": "pen-0002",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-07-20T10:00:00Z",
+    "summary": {
+      "ar": "إنشاء العقوبة — القرار DISC-2026-009",
+      "en": "Penalty created — decision DISC-2026-009"
+    }
+  },
+  {
+    "id": "pa-004",
+    "penaltyId": "pen-0002",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-07-20T10:00:00Z",
+    "summary": {
+      "ar": "اعتماد العقوبة وتوليد الأقساط",
+      "en": "Approved; instalments generated"
+    }
+  },
+  {
+    "id": "pa-012",
+    "penaltyId": "pen-0005",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-07-08T10:00:00Z",
+    "summary": {
+      "ar": "إنشاء العقوبة — القرار DISC-2026-011",
+      "en": "Penalty created — decision DISC-2026-011"
+    }
+  },
+  {
+    "id": "pa-013",
+    "penaltyId": "pen-0005",
+    "action": "Cancelled",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-07-08T10:00:00Z",
+    "summary": {
+      "ar": "إلغاء العقوبة",
+      "en": "Penalty cancelled"
+    }
+  },
+  {
+    "id": "pa-007",
+    "penaltyId": "pen-0003",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-06-18T10:00:00Z",
+    "summary": {
+      "ar": "إنشاء العقوبة — القرار DISC-2026-006",
+      "en": "Penalty created — decision DISC-2026-006"
+    }
+  },
+  {
+    "id": "pa-008",
+    "penaltyId": "pen-0003",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-06-18T10:00:00Z",
+    "summary": {
+      "ar": "اعتماد العقوبة وتوليد الأقساط",
+      "en": "Approved; instalments generated"
+    }
+  }
+]

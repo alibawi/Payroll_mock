@@ -1,0 +1,2050 @@
+[
+  {
+    "id": "as-001-2026-01",
+    "employeeId": "emp-001",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-002-2026-01",
+    "employeeId": "emp-002",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-003-2026-01",
+    "employeeId": "emp-003",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-004-2026-01",
+    "employeeId": "emp-004",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-005-2026-01",
+    "employeeId": "emp-005",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-006-2026-01",
+    "employeeId": "emp-006",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-007-2026-01",
+    "employeeId": "emp-007",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-008-2026-01",
+    "employeeId": "emp-008",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-009-2026-01",
+    "employeeId": "emp-009",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-010-2026-01",
+    "employeeId": "emp-010",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-011-2026-01",
+    "employeeId": "emp-011",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-012-2026-01",
+    "employeeId": "emp-012",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-013-2026-01",
+    "employeeId": "emp-013",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-014-2026-01",
+    "employeeId": "emp-014",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-015-2026-01",
+    "employeeId": "emp-015",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-017-2026-01",
+    "employeeId": "emp-017",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-018-2026-01",
+    "employeeId": "emp-018",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-020-2026-01",
+    "employeeId": "emp-020",
+    "periodId": "2026-01",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-001-2026-02",
+    "employeeId": "emp-001",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-002-2026-02",
+    "employeeId": "emp-002",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-003-2026-02",
+    "employeeId": "emp-003",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-004-2026-02",
+    "employeeId": "emp-004",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-005-2026-02",
+    "employeeId": "emp-005",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-006-2026-02",
+    "employeeId": "emp-006",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-007-2026-02",
+    "employeeId": "emp-007",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-008-2026-02",
+    "employeeId": "emp-008",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-009-2026-02",
+    "employeeId": "emp-009",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-010-2026-02",
+    "employeeId": "emp-010",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-011-2026-02",
+    "employeeId": "emp-011",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-012-2026-02",
+    "employeeId": "emp-012",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-013-2026-02",
+    "employeeId": "emp-013",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-014-2026-02",
+    "employeeId": "emp-014",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-015-2026-02",
+    "employeeId": "emp-015",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-017-2026-02",
+    "employeeId": "emp-017",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-018-2026-02",
+    "employeeId": "emp-018",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-020-2026-02",
+    "employeeId": "emp-020",
+    "periodId": "2026-02",
+    "workingDays": 26,
+    "calendarDays": 28,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-001-2026-03",
+    "employeeId": "emp-001",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-002-2026-03",
+    "employeeId": "emp-002",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-003-2026-03",
+    "employeeId": "emp-003",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-004-2026-03",
+    "employeeId": "emp-004",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [
+      20
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-005-2026-03",
+    "employeeId": "emp-005",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-006-2026-03",
+    "employeeId": "emp-006",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-007-2026-03",
+    "employeeId": "emp-007",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-008-2026-03",
+    "employeeId": "emp-008",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-009-2026-03",
+    "employeeId": "emp-009",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-010-2026-03",
+    "employeeId": "emp-010",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-011-2026-03",
+    "employeeId": "emp-011",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-012-2026-03",
+    "employeeId": "emp-012",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-013-2026-03",
+    "employeeId": "emp-013",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-014-2026-03",
+    "employeeId": "emp-014",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-015-2026-03",
+    "employeeId": "emp-015",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-017-2026-03",
+    "employeeId": "emp-017",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-018-2026-03",
+    "employeeId": "emp-018",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-020-2026-03",
+    "employeeId": "emp-020",
+    "periodId": "2026-03",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-001-2026-04",
+    "employeeId": "emp-001",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-002-2026-04",
+    "employeeId": "emp-002",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-003-2026-04",
+    "employeeId": "emp-003",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-004-2026-04",
+    "employeeId": "emp-004",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-005-2026-04",
+    "employeeId": "emp-005",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-006-2026-04",
+    "employeeId": "emp-006",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-007-2026-04",
+    "employeeId": "emp-007",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-008-2026-04",
+    "employeeId": "emp-008",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-009-2026-04",
+    "employeeId": "emp-009",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-010-2026-04",
+    "employeeId": "emp-010",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-011-2026-04",
+    "employeeId": "emp-011",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-012-2026-04",
+    "employeeId": "emp-012",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-013-2026-04",
+    "employeeId": "emp-013",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-014-2026-04",
+    "employeeId": "emp-014",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-015-2026-04",
+    "employeeId": "emp-015",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-017-2026-04",
+    "employeeId": "emp-017",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-018-2026-04",
+    "employeeId": "emp-018",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-020-2026-04",
+    "employeeId": "emp-020",
+    "periodId": "2026-04",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-001-2026-05",
+    "employeeId": "emp-001",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-002-2026-05",
+    "employeeId": "emp-002",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-003-2026-05",
+    "employeeId": "emp-003",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-004-2026-05",
+    "employeeId": "emp-004",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-005-2026-05",
+    "employeeId": "emp-005",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-006-2026-05",
+    "employeeId": "emp-006",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-007-2026-05",
+    "employeeId": "emp-007",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-008-2026-05",
+    "employeeId": "emp-008",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-009-2026-05",
+    "employeeId": "emp-009",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-010-2026-05",
+    "employeeId": "emp-010",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 1,
+    "lateEvents": [
+      12,
+      35
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-011-2026-05",
+    "employeeId": "emp-011",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-012-2026-05",
+    "employeeId": "emp-012",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-013-2026-05",
+    "employeeId": "emp-013",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-014-2026-05",
+    "employeeId": "emp-014",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-015-2026-05",
+    "employeeId": "emp-015",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-017-2026-05",
+    "employeeId": "emp-017",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-018-2026-05",
+    "employeeId": "emp-018",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-020-2026-05",
+    "employeeId": "emp-020",
+    "periodId": "2026-05",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-001-2026-06",
+    "employeeId": "emp-001",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-002-2026-06",
+    "employeeId": "emp-002",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-003-2026-06",
+    "employeeId": "emp-003",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-004-2026-06",
+    "employeeId": "emp-004",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-005-2026-06",
+    "employeeId": "emp-005",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-006-2026-06",
+    "employeeId": "emp-006",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-007-2026-06",
+    "employeeId": "emp-007",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-008-2026-06",
+    "employeeId": "emp-008",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 8
+  },
+  {
+    "id": "as-009-2026-06",
+    "employeeId": "emp-009",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-010-2026-06",
+    "employeeId": "emp-010",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-011-2026-06",
+    "employeeId": "emp-011",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-012-2026-06",
+    "employeeId": "emp-012",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-013-2026-06",
+    "employeeId": "emp-013",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      18
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-014-2026-06",
+    "employeeId": "emp-014",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-015-2026-06",
+    "employeeId": "emp-015",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-017-2026-06",
+    "employeeId": "emp-017",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-018-2026-06",
+    "employeeId": "emp-018",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-020-2026-06",
+    "employeeId": "emp-020",
+    "periodId": "2026-06",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-001-2026-07",
+    "employeeId": "emp-001",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-002-2026-07",
+    "employeeId": "emp-002",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-003-2026-07",
+    "employeeId": "emp-003",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-004-2026-07",
+    "employeeId": "emp-004",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-005-2026-07",
+    "employeeId": "emp-005",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-006-2026-07",
+    "employeeId": "emp-006",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-007-2026-07",
+    "employeeId": "emp-007",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-008-2026-07",
+    "employeeId": "emp-008",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-009-2026-07",
+    "employeeId": "emp-009",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-010-2026-07",
+    "employeeId": "emp-010",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-011-2026-07",
+    "employeeId": "emp-011",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-012-2026-07",
+    "employeeId": "emp-012",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-013-2026-07",
+    "employeeId": "emp-013",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-014-2026-07",
+    "employeeId": "emp-014",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-015-2026-07",
+    "employeeId": "emp-015",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-017-2026-07",
+    "employeeId": "emp-017",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-018-2026-07",
+    "employeeId": "emp-018",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-020-2026-07",
+    "employeeId": "emp-020",
+    "periodId": "2026-07",
+    "workingDays": 26,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-001-2026-08",
+    "employeeId": "emp-001",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      1,
+      -11
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-002-2026-08",
+    "employeeId": "emp-002",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-003-2026-08",
+    "employeeId": "emp-003",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 5
+  },
+  {
+    "id": "as-004-2026-08",
+    "employeeId": "emp-004",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-005-2026-08",
+    "employeeId": "emp-005",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-006-2026-08",
+    "employeeId": "emp-006",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-007-2026-08",
+    "employeeId": "emp-007",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 7
+  },
+  {
+    "id": "as-008-2026-08",
+    "employeeId": "emp-008",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-009-2026-08",
+    "employeeId": "emp-009",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-010-2026-08",
+    "employeeId": "emp-010",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 4
+  },
+  {
+    "id": "as-011-2026-08",
+    "employeeId": "emp-011",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-012-2026-08",
+    "employeeId": "emp-012",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-013-2026-08",
+    "employeeId": "emp-013",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      13,
+      25
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-014-2026-08",
+    "employeeId": "emp-014",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      -7,
+      -15
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 6
+  },
+  {
+    "id": "as-015-2026-08",
+    "employeeId": "emp-015",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      36
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-016-2026-08",
+    "employeeId": "emp-016",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      20
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-017-2026-08",
+    "employeeId": "emp-017",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      0
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-020-2026-08",
+    "employeeId": "emp-020",
+    "periodId": "2026-08",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      -10
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-021-2026-08",
+    "employeeId": "emp-021",
+    "periodId": "2026-08",
+    "workingDays": 9,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      4
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 5
+  },
+  {
+    "id": "as-001-2026-09",
+    "employeeId": "emp-001",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-002-2026-09",
+    "employeeId": "emp-002",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      15
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-003-2026-09",
+    "employeeId": "emp-003",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      -5
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-004-2026-09",
+    "employeeId": "emp-004",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      9,
+      23
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 9
+  },
+  {
+    "id": "as-005-2026-09",
+    "employeeId": "emp-005",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      22,
+      15
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-006-2026-09",
+    "employeeId": "emp-006",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [
+      2,
+      5
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-007-2026-09",
+    "employeeId": "emp-007",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-008-2026-09",
+    "employeeId": "emp-008",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 6
+  },
+  {
+    "id": "as-009-2026-09",
+    "employeeId": "emp-009",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-010-2026-09",
+    "employeeId": "emp-010",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-011-2026-09",
+    "employeeId": "emp-011",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 2,
+    "lateEvents": [
+      20,
+      25,
+      18
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-012-2026-09",
+    "employeeId": "emp-012",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-013-2026-09",
+    "employeeId": "emp-013",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-015-2026-09",
+    "employeeId": "emp-015",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 10
+  },
+  {
+    "id": "as-016-2026-09",
+    "employeeId": "emp-016",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-017-2026-09",
+    "employeeId": "emp-017",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 10,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-020-2026-09",
+    "employeeId": "emp-020",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-021-2026-09",
+    "employeeId": "emp-021",
+    "periodId": "2026-09",
+    "workingDays": 26,
+    "calendarDays": 30,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-001-2026-10",
+    "employeeId": "emp-001",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [
+      8
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-002-2026-10",
+    "employeeId": "emp-002",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-003-2026-10",
+    "employeeId": "emp-003",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-004-2026-10",
+    "employeeId": "emp-004",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [
+      14,
+      22
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-005-2026-10",
+    "employeeId": "emp-005",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-006-2026-10",
+    "employeeId": "emp-006",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-007-2026-10",
+    "employeeId": "emp-007",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-008-2026-10",
+    "employeeId": "emp-008",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 10
+  },
+  {
+    "id": "as-009-2026-10",
+    "employeeId": "emp-009",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-010-2026-10",
+    "employeeId": "emp-010",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 1,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 4
+  },
+  {
+    "id": "as-011-2026-10",
+    "employeeId": "emp-011",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [
+      12
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-012-2026-10",
+    "employeeId": "emp-012",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [
+      18
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-013-2026-10",
+    "employeeId": "emp-013",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-015-2026-10",
+    "employeeId": "emp-015",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [
+      9,
+      33
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 6
+  },
+  {
+    "id": "as-016-2026-10",
+    "employeeId": "emp-016",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [
+      40
+    ],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-017-2026-10",
+    "employeeId": "emp-017",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-020-2026-10",
+    "employeeId": "emp-020",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  },
+  {
+    "id": "as-021-2026-10",
+    "employeeId": "emp-021",
+    "periodId": "2026-10",
+    "workingDays": 27,
+    "calendarDays": 31,
+    "absenceDays": 0,
+    "lateEvents": [],
+    "lwpDays": 0,
+    "overtimeHours": 0
+  }
+]

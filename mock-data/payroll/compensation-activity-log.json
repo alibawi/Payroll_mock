@@ -1,0 +1,457 @@
+[
+  {
+    "id": "cl-003",
+    "employeeId": "emp-002",
+    "compensationId": "ec-002-3",
+    "action": "Increment",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-09-15T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2027-01-01 — علاوة سنوية مجدولة",
+      "en": "Effective 2027-01-01 — Scheduled annual increment"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-023",
+    "employeeId": "emp-021",
+    "compensationId": "ec-021-23",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-08-20T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-08-20 — تعيين مؤقت",
+      "en": "Effective 2026-08-20 — Temporary hire"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-021",
+    "employeeId": "emp-016",
+    "compensationId": "ec-016-21",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-08-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-08-01 — تعيين جديد",
+      "en": "Effective 2026-08-01 — New hire"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-018",
+    "employeeId": "emp-012",
+    "compensationId": "ec-012-18",
+    "action": "Adjusted",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-03-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-03-01 — تعديل عقد",
+      "en": "Effective 2026-03-01 — Contract adjustment"
+    },
+    "changes": [
+      {
+        "field": "baseSalary",
+        "from": "900000",
+        "to": "1000000"
+      }
+    ]
+  },
+  {
+    "id": "cl-001",
+    "employeeId": "emp-001",
+    "compensationId": "ec-001-1",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — هيكل 2026",
+      "en": "Effective 2026-01-01 — 2026 structure"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-002",
+    "employeeId": "emp-002",
+    "compensationId": "ec-002-2",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — هيكل 2026",
+      "en": "Effective 2026-01-01 — 2026 structure"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-004",
+    "employeeId": "emp-003",
+    "compensationId": "ec-003-4",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — هيكل 2026",
+      "en": "Effective 2026-01-01 — 2026 structure"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-006",
+    "employeeId": "emp-004",
+    "compensationId": "ec-004-6",
+    "action": "Promotion",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — ترفيع إلى الدرجة الثانية",
+      "en": "Effective 2026-01-01 — Promotion to grade 2"
+    },
+    "changes": [
+      {
+        "field": "gradeStepId",
+        "from": "gs-3-9",
+        "to": "gs-2-3"
+      }
+    ]
+  },
+  {
+    "id": "cl-007",
+    "employeeId": "emp-005",
+    "compensationId": "ec-005-7",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — هيكل 2026",
+      "en": "Effective 2026-01-01 — 2026 structure"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-009",
+    "employeeId": "emp-006",
+    "compensationId": "ec-006-9",
+    "action": "Increment",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — علاوة سنوية",
+      "en": "Effective 2026-01-01 — Annual increment"
+    },
+    "changes": [
+      {
+        "field": "gradeStepId",
+        "from": "gs-3-7",
+        "to": "gs-3-8"
+      }
+    ]
+  },
+  {
+    "id": "cl-010",
+    "employeeId": "emp-007",
+    "compensationId": "ec-007-10",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — هيكل 2026 (مثال الدراسة 12.1)",
+      "en": "Effective 2026-01-01 — 2026 structure (study example 12.1)"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-011",
+    "employeeId": "emp-009",
+    "compensationId": "ec-009-11",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — هيكل 2026",
+      "en": "Effective 2026-01-01 — 2026 structure"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-012",
+    "employeeId": "emp-013",
+    "compensationId": "ec-013-12",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — هيكل 2026",
+      "en": "Effective 2026-01-01 — 2026 structure"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-013",
+    "employeeId": "emp-017",
+    "compensationId": "ec-017-13",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — هيكل 2026",
+      "en": "Effective 2026-01-01 — 2026 structure"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-014",
+    "employeeId": "emp-008",
+    "compensationId": "ec-008-14",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — عقد 2026 (مثال الدراسة 12.2)",
+      "en": "Effective 2026-01-01 — 2026 contract (study example 12.2)"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-015",
+    "employeeId": "emp-010",
+    "compensationId": "ec-010-15",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — عقد 2026",
+      "en": "Effective 2026-01-01 — 2026 contract"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-016",
+    "employeeId": "emp-011",
+    "compensationId": "ec-011-16",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — عقد 2026 (مثال الدراسة 12.4)",
+      "en": "Effective 2026-01-01 — 2026 contract (study example 12.4)"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-020",
+    "employeeId": "emp-015",
+    "compensationId": "ec-015-20",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2026-01-01 — عقد 2026",
+      "en": "Effective 2026-01-01 — 2026 contract"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-017",
+    "employeeId": "emp-012",
+    "compensationId": "ec-012-17",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2025-01-15T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2025-01-15 — تعيين أولي",
+      "en": "Effective 2025-01-15 — Initial hire"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-019",
+    "employeeId": "emp-014",
+    "compensationId": "ec-014-19",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2025-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2025-01-01 — عقد",
+      "en": "Effective 2025-01-01 — Contract"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-022",
+    "employeeId": "emp-018",
+    "compensationId": "ec-018-22",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2025-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2025-01-01 — عقد",
+      "en": "Effective 2025-01-01 — Contract"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-005",
+    "employeeId": "emp-004",
+    "compensationId": "ec-004-5",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2021-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2021-01-01 — تعيين أولي",
+      "en": "Effective 2021-01-01 — Initial hire"
+    },
+    "changes": null
+  },
+  {
+    "id": "cl-008",
+    "employeeId": "emp-006",
+    "compensationId": "ec-006-8",
+    "action": "Assigned",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2021-01-01T08:00:00Z",
+    "summary": {
+      "ar": "اعتباراً من 2021-01-01 — تعيين أولي",
+      "en": "Effective 2021-01-01 — Initial hire"
+    },
+    "changes": null
+  }
+]

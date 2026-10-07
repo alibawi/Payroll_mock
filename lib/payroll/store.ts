@@ -69,3 +69,21 @@ export function resetStore() {
 export function storeStats() {
   return Object.fromEntries([...collections].map(([file, items]) => [file, items.length]));
 }
+
+/** Removes every item matching `predicate` (live array mutated in place); returns how many were removed. */
+export async function removeWhere<T extends Identified>(file: string, predicate: (item: T) => boolean): Promise<number> {
+  const items = await collection<T>(file);
+  let removed = 0;
+  for (let i = items.length - 1; i >= 0; i--) {
+    if (predicate(items[i])) {
+      items.splice(i, 1);
+      removed++;
+    }
+  }
+  return removed;
+}
+
+/** Appends items at the end of a collection (insertItem puts new items first). */
+export async function appendItems<T extends Identified>(file: string, newItems: T[]): Promise<void> {
+  (await collection<T>(file)).push(...newItems);
+}

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "tx-gov-2024",
+    "profileId": "pf-gov",
+    "effectiveFrom": "2024-01-01",
+    "effectiveTo": "2025-12-31",
+    "calcBasis": "MonthlyDirect",
+    "currencyCode": "IQD",
+    "brackets": [
+      {
+        "id": "b1",
+        "fromAmount": 0,
+        "toAmount": 250000,
+        "rate": 3
+      },
+      {
+        "id": "b2",
+        "fromAmount": 250000,
+        "toAmount": 500000,
+        "rate": 5
+      },
+      {
+        "id": "b3",
+        "fromAmount": 500000,
+        "toAmount": 1000000,
+        "rate": 10
+      },
+      {
+        "id": "b4",
+        "fromAmount": 1000000,
+        "toAmount": null,
+        "rate": 15
+      }
+    ],
+    "exemptions": [
+      {
+        "id": "e1",
+        "kind": "Personal",
+        "annualAmount": 2500000
+      },
+      {
+        "id": "e2",
+        "kind": "Married",
+        "annualAmount": 1250000
+      },
+      {
+        "id": "e3",
+        "kind": "PerChild",
+        "annualAmount": 800000
+      },
+      {
+        "id": "e4",
+        "kind": "AgeOver63",
+        "annualAmount": 1000000
+      },
+      {
+        "id": "e5",
+        "kind": "Disability",
+        "annualAmount": 1500000
+      }
+    ],
+    "notes": {
+      "ar": "إعفاءات 2024",
+      "en": "2024 exemptions"
+    },
+    "createdAt": "2024-01-01T08:00:00Z"
+  },
+  {
+    "id": "tx-gov-2026",
+    "profileId": "pf-gov",
+    "effectiveFrom": "2026-01-01",
+    "effectiveTo": null,
+    "calcBasis": "MonthlyDirect",
+    "currencyCode": "IQD",
+    "brackets": [
+      {
+        "id": "b1",
+        "fromAmount": 0,
+        "toAmount": 250000,
+        "rate": 3
+      },
+      {
+        "id": "b2",
+        "fromAmount": 250000,
+        "toAmount": 500000,
+        "rate": 5
+      },
+      {
+        "id": "b3",
+        "fromAmount": 500000,
+        "toAmount": 1000000,
+        "rate": 10
+      },
+      {
+        "id": "b4",
+        "fromAmount": 1000000,
+        "toAmount": null,
+        "rate": 15
+      }
+    ],
+    "exemptions": [
+      {
+        "id": "e1",
+        "kind": "Personal",
+        "annualAmount": 3000000
+      },
+      {
+        "id": "e2",
+        "kind": "Married",
+        "annualAmount": 1500000
+      },
+      {
+        "id": "e3",
+        "kind": "PerChild",
+        "annualAmount": 1000000
+      },
+      {
+        "id": "e4",
+        "kind": "AgeOver63",
+        "annualAmount": 1000000
+      },
+      {
+        "id": "e5",
+        "kind": "Disability",
+        "annualAmount": 1500000
+      }
+    ],
+    "notes": {
+      "ar": "تحديث الإعفاءات لعام 2026",
+      "en": "2026 exemption update"
+    },
+    "createdAt": "2026-01-01T08:00:00Z"
+  },
+  {
+    "id": "tx-priv-2024",
+    "profileId": "pf-priv",
+    "effectiveFrom": "2024-01-01",
+    "effectiveTo": "2025-12-31",
+    "calcBasis": "MonthlyDirect",
+    "currencyCode": "IQD",
+    "brackets": [
+      {
+        "id": "b1",
+        "fromAmount": 0,
+        "toAmount": 250000,
+        "rate": 3
+      },
+      {
+        "id": "b2",
+        "fromAmount": 250000,
+        "toAmount": 500000,
+        "rate": 5
+      },
+      {
+        "id": "b3",
+        "fromAmount": 500000,
+        "toAmount": 1000000,
+        "rate": 10
+      },
+      {
+        "id": "b4",
+        "fromAmount": 1000000,
+        "toAmount": null,
+        "rate": 15
+      }
+    ],
+    "exemptions": [
+      {
+        "id": "e1",
+        "kind": "Personal",
+        "annualAmount": 2500000
+      },
+      {
+        "id": "e2",
+        "kind": "Married",
+        "annualAmount": 1250000
+      },
+      {
+        "id": "e3",
+        "kind": "PerChild",
+        "annualAmount": 800000
+      },
+      {
+        "id": "e4",
+        "kind": "AgeOver63",
+        "annualAmount": 1000000
+      },
+      {
+        "id": "e5",
+        "kind": "Disability",
+        "annualAmount": 1500000
+      }
+    ],
+    "notes": {
+      "ar": "إعفاءات 2024",
+      "en": "2024 exemptions"
+    },
+    "createdAt": "2024-01-01T08:00:00Z"
+  },
+  {
+    "id": "tx-priv-2026",
+    "profileId": "pf-priv",
+    "effectiveFrom": "2026-01-01",
+    "effectiveTo": "2026-12-31",
+    "calcBasis": "MonthlyDirect",
+    "currencyCode": "IQD",
+    "brackets": [
+      {
+        "id": "b1",
+        "fromAmount": 0,
+        "toAmount": 250000,
+        "rate": 3
+      },
+      {
+        "id": "b2",
+        "fromAmount": 250000,
+        "toAmount": 500000,
+        "rate": 5
+      },
+      {
+        "id": "b3",
+        "fromAmount": 500000,
+        "toAmount": 1000000,
+        "rate": 10
+      },
+      {
+        "id": "b4",
+        "fromAmount": 1000000,
+        "toAmount": null,
+        "rate": 15
+      }
+    ],
+    "exemptions": [
+      {
+        "id": "e1",
+        "kind": "Personal",
+        "annualAmount": 3000000
+      },
+      {
+        "id": "e2",
+        "kind": "Married",
+        "annualAmount": 1500000
+      },
+      {
+        "id": "e3",
+        "kind": "PerChild",
+        "annualAmount": 1000000
+      },
+      {
+        "id": "e4",
+        "kind": "AgeOver63",
+        "annualAmount": 1000000
+      },
+      {
+        "id": "e5",
+        "kind": "Disability",
+        "annualAmount": 1500000
+      }
+    ],
+    "notes": {
+      "ar": "تحديث الإعفاءات لعام 2026",
+      "en": "2026 exemption update"
+    },
+    "createdAt": "2026-01-01T08:00:00Z"
+  },
+  {
+    "id": "tx-priv-2027",
+    "profileId": "pf-priv",
+    "effectiveFrom": "2027-01-01",
+    "effectiveTo": null,
+    "calcBasis": "MonthlyDirect",
+    "currencyCode": "IQD",
+    "brackets": [
+      {
+        "id": "b1",
+        "fromAmount": 0,
+        "toAmount": 250000,
+        "rate": 3
+      },
+      {
+        "id": "b2",
+        "fromAmount": 250000,
+        "toAmount": 500000,
+        "rate": 5
+      },
+      {
+        "id": "b3",
+        "fromAmount": 500000,
+        "toAmount": 1000000,
+        "rate": 10
+      },
+      {
+        "id": "b4",
+        "fromAmount": 1000000,
+        "toAmount": null,
+        "rate": 15
+      }
+    ],
+    "exemptions": [
+      {
+        "id": "e1",
+        "kind": "Personal",
+        "annualAmount": 3500000
+      },
+      {
+        "id": "e2",
+        "kind": "Married",
+        "annualAmount": 1750000
+      },
+      {
+        "id": "e3",
+        "kind": "PerChild",
+        "annualAmount": 1000000
+      },
+      {
+        "id": "e4",
+        "kind": "AgeOver63",
+        "annualAmount": 1000000
+      },
+      {
+        "id": "e5",
+        "kind": "Disability",
+        "annualAmount": 1500000
+      }
+    ],
+    "notes": {
+      "ar": "إعفاءات مقترحة لعام 2027",
+      "en": "Proposed 2027 exemptions"
+    },
+    "createdAt": "2026-09-10T08:00:00Z"
+  }
+]

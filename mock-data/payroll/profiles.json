@@ -1,0 +1,129 @@
+[
+  {
+    "id": "pf-gov",
+    "code": "GOVERNMENT_IQ",
+    "name": {
+      "ar": "القطاع الحكومي — العراق",
+      "en": "Iraq — Government sector"
+    },
+    "description": {
+      "ar": "السلّم الوظيفي (درجة/مرحلة) + التقاعد الموحّد + ضريبة الدخل",
+      "en": "Grade/step scale + unified pension + income tax"
+    },
+    "enablePension": true,
+    "enableSocialSecurity": false,
+    "enableIncomeTax": true,
+    "payFrequency": "Monthly",
+    "roundingRule": 250,
+    "currencyCode": "IQD",
+    "cutoffDay": 25,
+    "overtimeMultiplierNormal": 1.5,
+    "overtimeMultiplierRest": 2,
+    "overtimeMultiplierHoliday": 2,
+    "dayRateBasis": "WorkingDays",
+    "attendancePenaltyPolicy": {
+      "graceMinutes": 10,
+      "latenessMethod": "Tiers",
+      "latenessTiers": [
+        {
+          "id": "t1",
+          "fromMinutes": 1,
+          "toMinutes": 15,
+          "dayFraction": 0.25
+        },
+        {
+          "id": "t2",
+          "fromMinutes": 16,
+          "toMinutes": 30,
+          "dayFraction": 0.5
+        },
+        {
+          "id": "t3",
+          "fromMinutes": 31,
+          "toMinutes": 60,
+          "dayFraction": 0.75
+        },
+        {
+          "id": "t4",
+          "fromMinutes": 61,
+          "toMinutes": null,
+          "dayFraction": 1
+        }
+      ],
+      "latenessRatePerMinute": null,
+      "maxLateEventsBeforeDayCut": null,
+      "absenceDayRateComponentCodes": [
+        "NOMINAL_SALARY",
+        "ANNUAL_INCREMENT"
+      ],
+      "maxMonthlyDeductionPercent": 25,
+      "overBreachAction": "AutoSpread"
+    },
+    "isActive": true,
+    "createdAt": "2026-01-05T08:30:00Z",
+    "updatedAt": "2026-03-12T10:05:00Z"
+  },
+  {
+    "id": "pf-priv",
+    "code": "PRIVATE_IQ",
+    "name": {
+      "ar": "القطاع الخاص — العراق",
+      "en": "Iraq — Private sector"
+    },
+    "description": {
+      "ar": "الأجر التعاقدي + الضمان الاجتماعي للعمال + ضريبة الدخل",
+      "en": "Contractual wage + workers' social security + income tax"
+    },
+    "enablePension": false,
+    "enableSocialSecurity": true,
+    "enableIncomeTax": true,
+    "payFrequency": "Monthly",
+    "roundingRule": 250,
+    "currencyCode": "IQD",
+    "cutoffDay": 28,
+    "overtimeMultiplierNormal": 1.5,
+    "overtimeMultiplierRest": 2,
+    "overtimeMultiplierHoliday": 2,
+    "dayRateBasis": "WorkingDays",
+    "attendancePenaltyPolicy": {
+      "graceMinutes": 10,
+      "latenessMethod": "Tiers",
+      "latenessTiers": [
+        {
+          "id": "t1",
+          "fromMinutes": 1,
+          "toMinutes": 15,
+          "dayFraction": 0.25
+        },
+        {
+          "id": "t2",
+          "fromMinutes": 16,
+          "toMinutes": 30,
+          "dayFraction": 0.5
+        },
+        {
+          "id": "t3",
+          "fromMinutes": 31,
+          "toMinutes": 60,
+          "dayFraction": 0.75
+        },
+        {
+          "id": "t4",
+          "fromMinutes": 61,
+          "toMinutes": null,
+          "dayFraction": 1
+        }
+      ],
+      "latenessRatePerMinute": null,
+      "maxLateEventsBeforeDayCut": null,
+      "absenceDayRateComponentCodes": [
+        "BASIC_SALARY"
+      ],
+      "maxMonthlyDeductionPercent": 25,
+      "overBreachAction": "AutoSpread"
+    },
+    "isActive": true,
+    "createdAt": "2026-01-05T08:30:00Z",
+    "updatedAt": "2026-02-18T13:40:00Z"
+  }
+]

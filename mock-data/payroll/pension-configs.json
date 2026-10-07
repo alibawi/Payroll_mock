@@ -1,0 +1,43 @@
+[
+  {
+    "id": "pn-2019",
+    "profileId": "pf-gov",
+    "effectiveFrom": "2019-01-01",
+    "effectiveTo": "2025-12-31",
+    "employeeRate": 10,
+    "employerRate": 15,
+    "baseComponentCodes": [
+      "NOMINAL_SALARY",
+      "ANNUAL_INCREMENT"
+    ],
+    "employeePayableAccountCode": "2220",
+    "employerExpenseAccountCode": "5120",
+    "employerPayableAccountCode": "2220",
+    "notes": {
+      "ar": "قانون التقاعد الموحّد 9/2014",
+      "en": "Unified Pension Law 9/2014"
+    },
+    "createdAt": "2019-01-02T08:00:00Z"
+  },
+  {
+    "id": "pn-2026",
+    "profileId": "pf-gov",
+    "effectiveFrom": "2026-01-01",
+    "effectiveTo": null,
+    "employeeRate": 10,
+    "employerRate": 15,
+    "baseComponentCodes": [
+      "NOMINAL_SALARY",
+      "ANNUAL_INCREMENT",
+      "CERT_ALLOWANCE"
+    ],
+    "employeePayableAccountCode": "2220",
+    "employerExpenseAccountCode": "5120",
+    "employerPayableAccountCode": "2220",
+    "notes": {
+      "ar": "إضافة مخصصات الشهادة إلى الوعاء التقاعدي",
+      "en": "Certificate allowance added to the pensionable base"
+    },
+    "createdAt": "2026-01-05T08:30:00Z"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pen-0001-i1",
+    "penaltyId": "pen-0001",
+    "seqNo": 1,
+    "duePeriodId": "2026-10",
+    "amount": 173075,
+    "deductedAmount": 0,
+    "status": "Pending",
+    "payslipId": null
+  },
+  {
+    "id": "pen-0002-i1",
+    "penaltyId": "pen-0002",
+    "seqNo": 1,
+    "duePeriodId": "2026-08",
+    "amount": 50000,
+    "deductedAmount": 50000,
+    "status": "Deducted",
+    "payslipId": "ps-2026-08-emp-010"
+  },
+  {
+    "id": "pen-0002-i2",
+    "penaltyId": "pen-0002",
+    "seqNo": 2,
+    "duePeriodId": "2026-09",
+    "amount": 50000,
+    "deductedAmount": 50000,
+    "status": "Deducted",
+    "payslipId": "ps-2026-09-emp-010"
+  },
+  {
+    "id": "pen-0002-i3",
+    "penaltyId": "pen-0002",
+    "seqNo": 3,
+    "duePeriodId": "2026-10",
+    "amount": 50000,
+    "deductedAmount": 0,
+    "status": "Pending",
+    "payslipId": null
+  },
+  {
+    "id": "pen-0003-i1",
+    "penaltyId": "pen-0003",
+    "seqNo": 1,
+    "duePeriodId": "2026-07",
+    "amount": 109500,
+    "deductedAmount": 109500,
+    "status": "Deducted",
+    "payslipId": "ps-2026-07-emp-013"
+  },
+  {
+    "id": "pen-0007-i1",
+    "penaltyId": "pen-0007",
+    "seqNo": 1,
+    "duePeriodId": "2026-11",
+    "amount": 125000,
+    "deductedAmount": 0,
+    "status": "Pending",
+    "payslipId": null
+  },
+  {
+    "id": "pen-0007-i2",
+    "penaltyId": "pen-0007",
+    "seqNo": 2,
+    "duePeriodId": "2026-12",
+    "amount": 125000,
+    "deductedAmount": 0,
+    "status": "Pending",
+    "payslipId": null
+  },
+  {
+    "id": "pen-0008-i1",
+    "penaltyId": "pen-0008",
+    "seqNo": 1,
+    "duePeriodId": "2026-09",
+    "amount": 50000,
+    "deductedAmount": 50000,
+    "status": "Deducted",
+    "payslipId": "ps-2026-09-emp-021"
+  }
+]

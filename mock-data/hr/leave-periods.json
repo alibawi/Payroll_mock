@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lv-001",
+    "employeeId": "emp-009",
+    "startDate": "2026-09-20",
+    "endDate": "2026-10-12",
+    "days": 23,
+    "leaveType": "Annual",
+    "isPaid": true
+  },
+  {
+    "id": "lv-002",
+    "employeeId": "emp-017",
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-18",
+    "days": 15,
+    "leaveType": "Annual",
+    "isPaid": true
+  },
+  {
+    "id": "lv-003",
+    "employeeId": "emp-012",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-10",
+    "days": 3,
+    "leaveType": "Sick",
+    "isPaid": true
+  },
+  {
+    "id": "lv-004",
+    "employeeId": "emp-013",
+    "startDate": "2026-04-14",
+    "endDate": "2026-04-16",
+    "days": 3,
+    "leaveType": "Annual",
+    "isPaid": true
+  },
+  {
+    "id": "lv-005",
+    "employeeId": "emp-010",
+    "startDate": "2026-08-11",
+    "endDate": "2026-08-12",
+    "days": 2,
+    "leaveType": "Unpaid",
+    "isPaid": false
+  }
+]

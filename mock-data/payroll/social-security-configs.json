@@ -1,0 +1,95 @@
+[
+  {
+    "id": "ss-2015",
+    "profileId": "pf-priv",
+    "effectiveFrom": "2015-01-01",
+    "effectiveTo": "2023-12-31",
+    "employeeRate": 5,
+    "employerRate": 12,
+    "baseComponentCodes": [
+      "BASIC_SALARY",
+      "HOUSING_ALLOWANCE"
+    ],
+    "employeePayableAccountCode": "2230",
+    "employerExpenseAccountCode": "5130",
+    "employerPayableAccountCode": "2230",
+    "establishmentFileNo": "SS-BGD-004417",
+    "remittanceCycle": "Monthly",
+    "activityRateOverrides": [],
+    "notes": {
+      "ar": "قانون التقاعد والضمان الاجتماعي للعمال 39/1971",
+      "en": "Workers' Pension & Social Security Law 39/1971"
+    },
+    "createdAt": "2015-01-04T08:00:00Z"
+  },
+  {
+    "id": "ss-2024",
+    "profileId": "pf-priv",
+    "effectiveFrom": "2024-01-01",
+    "effectiveTo": "2026-12-31",
+    "employeeRate": 5,
+    "employerRate": 12,
+    "baseComponentCodes": [
+      "BASIC_SALARY",
+      "HOUSING_ALLOWANCE",
+      "NATURE_OF_WORK_ALLOWANCE",
+      "HAZARD_ALLOWANCE_PRIV",
+      "OVERTIME"
+    ],
+    "employeePayableAccountCode": "2230",
+    "employerExpenseAccountCode": "5130",
+    "employerPayableAccountCode": "2230",
+    "establishmentFileNo": "SS-BGD-004417",
+    "remittanceCycle": "Monthly",
+    "activityRateOverrides": [
+      {
+        "id": "ao1",
+        "activity": {
+          "ar": "الأنشطة الخطرة (إنشاءات / مصانع)",
+          "en": "Hazardous activities (construction / plants)"
+        },
+        "employerRate": 15
+      }
+    ],
+    "notes": {
+      "ar": "قانون 18/2023 — النسب تُثبَّت رسمياً",
+      "en": "Law 18/2023 — rates to be officially confirmed"
+    },
+    "createdAt": "2024-01-02T08:30:00Z"
+  },
+  {
+    "id": "ss-2027",
+    "profileId": "pf-priv",
+    "effectiveFrom": "2027-01-01",
+    "effectiveTo": null,
+    "employeeRate": 5,
+    "employerRate": 12,
+    "baseComponentCodes": [
+      "BASIC_SALARY",
+      "HOUSING_ALLOWANCE",
+      "NATURE_OF_WORK_ALLOWANCE",
+      "HAZARD_ALLOWANCE_PRIV",
+      "OVERTIME"
+    ],
+    "employeePayableAccountCode": "2230",
+    "employerExpenseAccountCode": "5130",
+    "employerPayableAccountCode": "2230",
+    "establishmentFileNo": "SS-BGD-004417",
+    "remittanceCycle": "Monthly",
+    "activityRateOverrides": [
+      {
+        "id": "ao1",
+        "activity": {
+          "ar": "الأنشطة الخطرة (إنشاءات / مصانع)",
+          "en": "Hazardous activities (construction / plants)"
+        },
+        "employerRate": 16
+      }
+    ],
+    "notes": {
+      "ar": "تحديث مقترح لنسبة الأنشطة الخطرة",
+      "en": "Proposed hazardous-activity rate update"
+    },
+    "createdAt": "2026-09-10T11:00:00Z"
+  }
+]

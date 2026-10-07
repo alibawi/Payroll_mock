@@ -1,0 +1,107 @@
+[
+  {
+    "id": "lb-001",
+    "employeeId": "emp-001",
+    "annualDays": 17
+  },
+  {
+    "id": "lb-002",
+    "employeeId": "emp-002",
+    "annualDays": 8
+  },
+  {
+    "id": "lb-003",
+    "employeeId": "emp-003",
+    "annualDays": 22
+  },
+  {
+    "id": "lb-004",
+    "employeeId": "emp-004",
+    "annualDays": 10
+  },
+  {
+    "id": "lb-005",
+    "employeeId": "emp-005",
+    "annualDays": 17
+  },
+  {
+    "id": "lb-006",
+    "employeeId": "emp-006",
+    "annualDays": 24
+  },
+  {
+    "id": "lb-007",
+    "employeeId": "emp-007",
+    "annualDays": 7
+  },
+  {
+    "id": "lb-008",
+    "employeeId": "emp-008",
+    "annualDays": 19
+  },
+  {
+    "id": "lb-009",
+    "employeeId": "emp-009",
+    "annualDays": 26
+  },
+  {
+    "id": "lb-010",
+    "employeeId": "emp-010",
+    "annualDays": 14
+  },
+  {
+    "id": "lb-011",
+    "employeeId": "emp-011",
+    "annualDays": 21
+  },
+  {
+    "id": "lb-012",
+    "employeeId": "emp-012",
+    "annualDays": 9
+  },
+  {
+    "id": "lb-013",
+    "employeeId": "emp-013",
+    "annualDays": 2
+  },
+  {
+    "id": "lb-014",
+    "employeeId": "emp-014",
+    "annualDays": 23
+  },
+  {
+    "id": "lb-015",
+    "employeeId": "emp-015",
+    "annualDays": 11
+  },
+  {
+    "id": "lb-016",
+    "employeeId": "emp-016",
+    "annualDays": 18
+  },
+  {
+    "id": "lb-017",
+    "employeeId": "emp-017",
+    "annualDays": 25
+  },
+  {
+    "id": "lb-018",
+    "employeeId": "emp-018",
+    "annualDays": 13
+  },
+  {
+    "id": "lb-019",
+    "employeeId": "emp-019",
+    "annualDays": 20
+  },
+  {
+    "id": "lb-020",
+    "employeeId": "emp-020",
+    "annualDays": 8
+  },
+  {
+    "id": "lb-021",
+    "employeeId": "emp-021",
+    "annualDays": 15
+  }
+]

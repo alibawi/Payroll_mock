@@ -1,0 +1,155 @@
+[
+  {
+    "id": "ea-001",
+    "eosId": "eos-001",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-01T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء مطالبة EOS-2026-0001",
+      "en": "Claim EOS-2026-0001 created"
+    }
+  },
+  {
+    "id": "ea-002",
+    "eosId": "eos-001",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-09-02T09:00:00Z",
+    "summary": {
+      "ar": "اعتماد المطالبة",
+      "en": "Claim approved"
+    }
+  },
+  {
+    "id": "ea-003",
+    "eosId": "eos-001",
+    "action": "Paid",
+    "actor": {
+      "name": {
+        "ar": "محمد العبيدي",
+        "en": "Mohammed Al-Obaidi"
+      },
+      "role": "financeAccountant"
+    },
+    "timestamp": "2026-09-05T09:00:00Z",
+    "summary": {
+      "ar": "دفع المطالبة — PV-EOS-0001",
+      "en": "Claim paid — PV-EOS-0001"
+    }
+  },
+  {
+    "id": "ea-004",
+    "eosId": "eos-002",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-01T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء مطالبة EOS-2026-0002",
+      "en": "Claim EOS-2026-0002 created"
+    }
+  },
+  {
+    "id": "ea-005",
+    "eosId": "eos-002",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-09-02T09:00:00Z",
+    "summary": {
+      "ar": "اعتماد المطالبة",
+      "en": "Claim approved"
+    }
+  },
+  {
+    "id": "ea-006",
+    "eosId": "eos-003",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-01T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء مطالبة EOS-2026-0003",
+      "en": "Claim EOS-2026-0003 created"
+    }
+  },
+  {
+    "id": "ea-007",
+    "eosId": "eos-004",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-01T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء مطالبة EOS-2026-0004",
+      "en": "Claim EOS-2026-0004 created"
+    }
+  },
+  {
+    "id": "ea-008",
+    "eosId": "eos-005",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-01T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء مطالبة EOS-2026-0005",
+      "en": "Claim EOS-2026-0005 created"
+    }
+  },
+  {
+    "id": "ea-009",
+    "eosId": "eos-005",
+    "action": "Cancelled",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-09-10T09:00:00Z",
+    "summary": {
+      "ar": "إلغاء المطالبة",
+      "en": "Claim cancelled"
+    }
+  }
+]

@@ -128,4 +128,5 @@ export const payrollNavLabels = {
   myPayslips: { ar: "قسائمي", en: "My payslips" },
   myLoans: { ar: "سلفي", en: "My loans" },
   permissions: { ar: "الصلاحيات", en: "Permissions" },
+  dashboard: { ar: "لوحة الإدارة العليا", en: "Executive dashboard" },
 } as const satisfies LabelMap;

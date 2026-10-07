@@ -193,7 +193,7 @@
     "gender": "female",
     "dateOfBirth": "1990-07-30",
     "nationality": "عراقية",
-    "maritalStatus": "single",
+    "maritalStatus": "married",
     "nationalId": "19900730-000007",
     "mobileNo": "07901000007",
     "email": "nour.alameri@enki.iq",
@@ -213,7 +213,7 @@
     "directManager": "عمر ناظم الشمري",
     "salaryType": "Monthly",
     "currencyCode": "IQD",
-    "numOfChildren": 0,
+    "numOfChildren": 3,
     "bankCardNo": "6221-0007-4422-9166"
   },
   {

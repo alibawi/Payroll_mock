@@ -3,9 +3,11 @@
 import { useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
 import { useTheme } from "next-themes";
-import { Moon, Plus, Search, Sun } from "lucide-react";
+import { Moon, Plus, Sun } from "lucide-react";
 
 import { useLocale } from "@/components/locale-provider";
+import { GlobalSearch } from "@/components/shell/global-search";
+import { NotificationsBell } from "@/components/shell/notifications-bell";
 import { RoleSwitcher } from "@/components/shell/role-switcher";
 import { Button } from "@/components/ui/button";
 import {
@@ -14,7 +16,6 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { Input } from "@/components/ui/input";
 import { appLabels, commonLabels } from "@/lib/i18n/labels";
 
 const quickCreate = [
@@ -68,20 +69,8 @@ export function Topbar() {
           ))}
         </DropdownMenuContent>
       </DropdownMenu>
+      <GlobalSearch />
 
-      <div className="relative w-full max-w-xs">
-        <Search className="pointer-events-none absolute start-2.5 top-1/2 size-4 -translate-y-1/2 text-muted-foreground" />
-        <Input
-          ref={searchRef}
-          type="search"
-          placeholder={t(commonLabels.search)}
-          aria-label={t(commonLabels.search)}
-          className="h-9 ps-8 pe-14"
-        />
-        <kbd className="pointer-events-none absolute end-2 top-1/2 -translate-y-1/2 rounded border border-border bg-muted px-1.5 text-[11px] text-muted-foreground">
-          K⌘
-        </kbd>
-      </div>
 
       <div className="ms-auto flex items-center gap-3">
         <Button
@@ -95,6 +84,7 @@ export function Topbar() {
           <Moon className="hidden size-[18px] dark:block" />
         </Button>
 
+        <NotificationsBell />
         <RoleSwitcher />
       </div>
     </header>

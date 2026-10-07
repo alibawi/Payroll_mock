@@ -25,14 +25,16 @@ export async function readMockData<T = unknown>(relativePath: string): Promise<T
 export class MockApiError extends Error {
   constructor(
     public status: number,
-    message: string
+    message: string,
+    /** Optional structured payload (e.g. field-level validation errors) sent as `details`. */
+    public details?: unknown
   ) {
     super(message);
   }
 }
 
-export function jsonError(status: number, message: string) {
-  return Response.json({ error: message }, { status });
+export function jsonError(status: number, message: string, details?: unknown) {
+  return Response.json({ error: message, ...(details ? { details } : {}) }, { status });
 }
 
 /**
@@ -58,7 +60,7 @@ export async function mockResponse<T>(
   try {
     return Response.json(await produce(), { status: init?.status ?? 200 });
   } catch (error) {
-    if (error instanceof MockApiError) return jsonError(error.status, error.message);
+    if (error instanceof MockApiError) return jsonError(error.status, error.message, error.details);
     console.error(error);
     return jsonError(500, "Unexpected server error");
   }

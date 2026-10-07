@@ -1,0 +1,137 @@
+[
+  {
+    "id": "gl-1110",
+    "code": "1110",
+    "name": {
+      "ar": "النقد في الصندوق",
+      "en": "Cash on hand"
+    },
+    "type": "Asset"
+  },
+  {
+    "id": "gl-1120",
+    "code": "1120",
+    "name": {
+      "ar": "المصرف — الحساب الجاري",
+      "en": "Bank — current account"
+    },
+    "type": "Asset"
+  },
+  {
+    "id": "gl-1150",
+    "code": "1150",
+    "name": {
+      "ar": "قروض وسلف الموظفين المدينة",
+      "en": "Employee loans & advances receivable"
+    },
+    "type": "Asset"
+  },
+  {
+    "id": "gl-2210",
+    "code": "2210",
+    "name": {
+      "ar": "أمانات ضريبة الدخل",
+      "en": "Income tax payable"
+    },
+    "type": "Liability"
+  },
+  {
+    "id": "gl-2220",
+    "code": "2220",
+    "name": {
+      "ar": "أمانات التقاعد",
+      "en": "Pension contributions payable"
+    },
+    "type": "Liability"
+  },
+  {
+    "id": "gl-2230",
+    "code": "2230",
+    "name": {
+      "ar": "أمانات الضمان الاجتماعي",
+      "en": "Social security payable"
+    },
+    "type": "Liability"
+  },
+  {
+    "id": "gl-2240",
+    "code": "2240",
+    "name": {
+      "ar": "اقتطاعات قضائية مستحقة التوريد",
+      "en": "Court orders payable"
+    },
+    "type": "Liability"
+  },
+  {
+    "id": "gl-2250",
+    "code": "2250",
+    "name": {
+      "ar": "رواتب مستحقة الدفع",
+      "en": "Net salaries payable"
+    },
+    "type": "Liability"
+  },
+  {
+    "id": "gl-2260",
+    "code": "2260",
+    "name": {
+      "ar": "أمانات رسوم النقابة",
+      "en": "Union dues payable"
+    },
+    "type": "Liability"
+  },
+  {
+    "id": "gl-4310",
+    "code": "4310",
+    "name": {
+      "ar": "إيراد الغرامات والعقوبات",
+      "en": "Penalties & fines income"
+    },
+    "type": "Revenue"
+  },
+  {
+    "id": "gl-5110",
+    "code": "5110",
+    "name": {
+      "ar": "مصروف الرواتب والأجور",
+      "en": "Salaries & wages expense"
+    },
+    "type": "Expense"
+  },
+  {
+    "id": "gl-5120",
+    "code": "5120",
+    "name": {
+      "ar": "مصروف حصة صاحب العمل — التقاعد",
+      "en": "Employer pension expense"
+    },
+    "type": "Expense"
+  },
+  {
+    "id": "gl-5130",
+    "code": "5130",
+    "name": {
+      "ar": "مصروف حصة صاحب العمل — الضمان",
+      "en": "Employer social security expense"
+    },
+    "type": "Expense"
+  },
+  {
+    "id": "gl-5140",
+    "code": "5140",
+    "name": {
+      "ar": "مصروف العمل الإضافي",
+      "en": "Overtime expense"
+    },
+    "type": "Expense"
+  },
+  {
+    "id": "gl-5190",
+    "code": "5190",
+    "name": {
+      "ar": "مصروفات رواتب أخرى",
+      "en": "Other payroll expenses"
+    },
+    "type": "Expense"
+  }
+]

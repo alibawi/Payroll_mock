@@ -67,6 +67,7 @@ const payrollChildren: ModuleNavChild[] = [
   { href: "/payroll/my-payslips", label: payrollNavLabels.myPayslips, group: payrollNavGroupLabels.selfService },
   { href: "/payroll/my-loans", label: payrollNavLabels.myLoans },
   { href: "/payroll/permissions", label: payrollNavLabels.permissions, group: payrollNavGroupLabels.admin },
+  { href: "/dashboard", label: payrollNavLabels.dashboard },
 ];
 
 /** Order follows docs/assets/enki-erp-home.png; payroll sits right after HR. */

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "rem-2026-01-tax",
+    "periodKey": "2026-01",
+    "kind": "tax",
+    "status": "Remitted",
+    "remittedAt": "2026-01-30T09:00:00Z",
+    "voucherRef": "PV-REM-0001"
+  },
+  {
+    "id": "rem-2026-01-pension",
+    "periodKey": "2026-01",
+    "kind": "pension",
+    "status": "Remitted",
+    "remittedAt": "2026-01-30T09:00:00Z",
+    "voucherRef": "PV-REM-0002"
+  },
+  {
+    "id": "rem-2026-01-socialSecurity",
+    "periodKey": "2026-01",
+    "kind": "socialSecurity",
+    "status": "Remitted",
+    "remittedAt": "2026-01-30T09:00:00Z",
+    "voucherRef": "PV-REM-0003"
+  },
+  {
+    "id": "rem-2026-02-tax",
+    "periodKey": "2026-02",
+    "kind": "tax",
+    "status": "Remitted",
+    "remittedAt": "2026-02-28T09:00:00Z",
+    "voucherRef": "PV-REM-0004"
+  },
+  {
+    "id": "rem-2026-02-pension",
+    "periodKey": "2026-02",
+    "kind": "pension",
+    "status": "Remitted",
+    "remittedAt": "2026-02-28T09:00:00Z",
+    "voucherRef": "PV-REM-0005"
+  },
+  {
+    "id": "rem-2026-02-socialSecurity",
+    "periodKey": "2026-02",
+    "kind": "socialSecurity",
+    "status": "Remitted",
+    "remittedAt": "2026-02-28T09:00:00Z",
+    "voucherRef": "PV-REM-0006"
+  },
+  {
+    "id": "rem-2026-03-tax",
+    "periodKey": "2026-03",
+    "kind": "tax",
+    "status": "Remitted",
+    "remittedAt": "2026-03-30T09:00:00Z",
+    "voucherRef": "PV-REM-0007"
+  },
+  {
+    "id": "rem-2026-03-pension",
+    "periodKey": "2026-03",
+    "kind": "pension",
+    "status": "Remitted",
+    "remittedAt": "2026-03-30T09:00:00Z",
+    "voucherRef": "PV-REM-0008"
+  },
+  {
+    "id": "rem-2026-03-socialSecurity",
+    "periodKey": "2026-03",
+    "kind": "socialSecurity",
+    "status": "Remitted",
+    "remittedAt": "2026-03-30T09:00:00Z",
+    "voucherRef": "PV-REM-0009"
+  },
+  {
+    "id": "rem-2026-04-tax",
+    "periodKey": "2026-04",
+    "kind": "tax",
+    "status": "Remitted",
+    "remittedAt": "2026-04-30T09:00:00Z",
+    "voucherRef": "PV-REM-0010"
+  },
+  {
+    "id": "rem-2026-04-pension",
+    "periodKey": "2026-04",
+    "kind": "pension",
+    "status": "Remitted",
+    "remittedAt": "2026-04-30T09:00:00Z",
+    "voucherRef": "PV-REM-0011"
+  },
+  {
+    "id": "rem-2026-04-socialSecurity",
+    "periodKey": "2026-04",
+    "kind": "socialSecurity",
+    "status": "Remitted",
+    "remittedAt": "2026-04-30T09:00:00Z",
+    "voucherRef": "PV-REM-0012"
+  },
+  {
+    "id": "rem-2026-05-tax",
+    "periodKey": "2026-05",
+    "kind": "tax",
+    "status": "Remitted",
+    "remittedAt": "2026-05-30T09:00:00Z",
+    "voucherRef": "PV-REM-0013"
+  },
+  {
+    "id": "rem-2026-05-pension",
+    "periodKey": "2026-05",
+    "kind": "pension",
+    "status": "Remitted",
+    "remittedAt": "2026-05-30T09:00:00Z",
+    "voucherRef": "PV-REM-0014"
+  },
+  {
+    "id": "rem-2026-05-socialSecurity",
+    "periodKey": "2026-05",
+    "kind": "socialSecurity",
+    "status": "Remitted",
+    "remittedAt": "2026-05-30T09:00:00Z",
+    "voucherRef": "PV-REM-0015"
+  },
+  {
+    "id": "rem-2026-06-tax",
+    "periodKey": "2026-06",
+    "kind": "tax",
+    "status": "Remitted",
+    "remittedAt": "2026-06-30T09:00:00Z",
+    "voucherRef": "PV-REM-0016"
+  },
+  {
+    "id": "rem-2026-06-pension",
+    "periodKey": "2026-06",
+    "kind": "pension",
+    "status": "Remitted",
+    "remittedAt": "2026-06-30T09:00:00Z",
+    "voucherRef": "PV-REM-0017"
+  },
+  {
+    "id": "rem-2026-06-socialSecurity",
+    "periodKey": "2026-06",
+    "kind": "socialSecurity",
+    "status": "Remitted",
+    "remittedAt": "2026-06-30T09:00:00Z",
+    "voucherRef": "PV-REM-0018"
+  },
+  {
+    "id": "rem-2026-07-tax",
+    "periodKey": "2026-07",
+    "kind": "tax",
+    "status": "Remitted",
+    "remittedAt": "2026-07-30T09:00:00Z",
+    "voucherRef": "PV-REM-0019"
+  },
+  {
+    "id": "rem-2026-07-pension",
+    "periodKey": "2026-07",
+    "kind": "pension",
+    "status": "Remitted",
+    "remittedAt": "2026-07-30T09:00:00Z",
+    "voucherRef": "PV-REM-0020"
+  },
+  {
+    "id": "rem-2026-07-socialSecurity",
+    "periodKey": "2026-07",
+    "kind": "socialSecurity",
+    "status": "Remitted",
+    "remittedAt": "2026-07-30T09:00:00Z",
+    "voucherRef": "PV-REM-0021"
+  },
+  {
+    "id": "rem-2026-08-tax",
+    "periodKey": "2026-08",
+    "kind": "tax",
+    "status": "Remitted",
+    "remittedAt": "2026-08-30T09:00:00Z",
+    "voucherRef": "PV-REM-0022"
+  },
+  {
+    "id": "rem-2026-08-pension",
+    "periodKey": "2026-08",
+    "kind": "pension",
+    "status": "Remitted",
+    "remittedAt": "2026-08-30T09:00:00Z",
+    "voucherRef": "PV-REM-0023"
+  },
+  {
+    "id": "rem-2026-08-socialSecurity",
+    "periodKey": "2026-08",
+    "kind": "socialSecurity",
+    "status": "Remitted",
+    "remittedAt": "2026-08-30T09:00:00Z",
+    "voucherRef": "PV-REM-0024"
+  },
+  {
+    "id": "rem-2026-09-tax",
+    "periodKey": "2026-09",
+    "kind": "tax",
+    "status": "NotRemitted",
+    "remittedAt": null,
+    "voucherRef": null
+  },
+  {
+    "id": "rem-2026-09-pension",
+    "periodKey": "2026-09",
+    "kind": "pension",
+    "status": "NotRemitted",
+    "remittedAt": null,
+    "voucherRef": null
+  },
+  {
+    "id": "rem-2026-09-socialSecurity",
+    "periodKey": "2026-09",
+    "kind": "socialSecurity",
+    "status": "NotRemitted",
+    "remittedAt": null,
+    "voucherRef": null
+  }
+]

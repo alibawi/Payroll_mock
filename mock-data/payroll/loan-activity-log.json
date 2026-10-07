@@ -1,0 +1,1209 @@
+[
+  {
+    "id": "la-054",
+    "loanId": "ln-0009",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-10-06T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء الطلب",
+      "en": "Request created"
+    }
+  },
+  {
+    "id": "la-039",
+    "loanId": "ln-0006",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-10-05T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء الطلب",
+      "en": "Request created"
+    }
+  },
+  {
+    "id": "la-040",
+    "loanId": "ln-0006",
+    "action": "Submitted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-10-05T09:00:00Z",
+    "summary": {
+      "ar": "إرسال للاعتماد",
+      "en": "Submitted for approval"
+    }
+  },
+  {
+    "id": "la-041",
+    "loanId": "ln-0007",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-10-03T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء الطلب",
+      "en": "Request created"
+    }
+  },
+  {
+    "id": "la-042",
+    "loanId": "ln-0007",
+    "action": "Submitted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-10-03T09:00:00Z",
+    "summary": {
+      "ar": "إرسال للاعتماد",
+      "en": "Submitted for approval"
+    }
+  },
+  {
+    "id": "la-043",
+    "loanId": "ln-0007",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-10-03T09:00:00Z",
+    "summary": {
+      "ar": "اعتماد الطلب وتوليد جدول الأقساط",
+      "en": "Approved; instalment schedule generated"
+    }
+  },
+  {
+    "id": "la-011",
+    "loanId": "ln-0001",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 7 من راتب 2026-09",
+      "en": "Instalment 7 deducted from 2026-09 payroll"
+    }
+  },
+  {
+    "id": "la-020",
+    "loanId": "ln-0002",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 5 من راتب 2026-09",
+      "en": "Instalment 5 deducted from 2026-09 payroll"
+    }
+  },
+  {
+    "id": "la-059",
+    "loanId": "ln-0010",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 1 من راتب 2026-09",
+      "en": "Instalment 1 deducted from 2026-09 payroll"
+    }
+  },
+  {
+    "id": "la-068",
+    "loanId": "ln-0011",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 4 من راتب 2026-09",
+      "en": "Instalment 4 deducted from 2026-09 payroll"
+    }
+  },
+  {
+    "id": "la-060",
+    "loanId": "ln-0010",
+    "action": "Settled",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-30T09:00:00Z",
+    "summary": {
+      "ar": "سُدّد القرض بالكامل",
+      "en": "Loan fully repaid"
+    }
+  },
+  {
+    "id": "la-021",
+    "loanId": "ln-0003",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-25T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء الطلب",
+      "en": "Request created"
+    }
+  },
+  {
+    "id": "la-022",
+    "loanId": "ln-0003",
+    "action": "Submitted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-25T09:00:00Z",
+    "summary": {
+      "ar": "إرسال للاعتماد",
+      "en": "Submitted for approval"
+    }
+  },
+  {
+    "id": "la-023",
+    "loanId": "ln-0003",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-09-25T09:00:00Z",
+    "summary": {
+      "ar": "اعتماد الطلب وتوليد جدول الأقساط",
+      "en": "Approved; instalment schedule generated"
+    }
+  },
+  {
+    "id": "la-024",
+    "loanId": "ln-0003",
+    "action": "Disbursed",
+    "actor": {
+      "name": {
+        "ar": "محمد العبيدي",
+        "en": "Mohammed Al-Obaidi"
+      },
+      "role": "financeAccountant"
+    },
+    "timestamp": "2026-09-25T09:00:00Z",
+    "summary": {
+      "ar": "صرف المبلغ — القيد JV-EMPLOAN-0003",
+      "en": "Disbursed — journal JV-EMPLOAN-0003"
+    }
+  },
+  {
+    "id": "la-069",
+    "loanId": "ln-0012",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-20T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء الطلب",
+      "en": "Request created"
+    }
+  },
+  {
+    "id": "la-070",
+    "loanId": "ln-0012",
+    "action": "Submitted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-20T09:00:00Z",
+    "summary": {
+      "ar": "إرسال للاعتماد",
+      "en": "Submitted for approval"
+    }
+  },
+  {
+    "id": "la-071",
+    "loanId": "ln-0012",
+    "action": "Rejected",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-09-20T09:00:00Z",
+    "summary": {
+      "ar": "رفض الطلب: القسط يتجاوز سقف الاستقطاع الشهري",
+      "en": "Rejected: القسط يتجاوز سقف الاستقطاع الشهري"
+    }
+  },
+  {
+    "id": "la-053",
+    "loanId": "ln-0008",
+    "action": "Deferred",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-09-05T09:00:00Z",
+    "summary": {
+      "ar": "تأجيل القسط 6 إلى نهاية الجدول",
+      "en": "Instalment 6 deferred to the end of the schedule"
+    }
+  },
+  {
+    "id": "la-036",
+    "loanId": "ln-0005",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-02T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء الطلب",
+      "en": "Request created"
+    }
+  },
+  {
+    "id": "la-037",
+    "loanId": "ln-0005",
+    "action": "Submitted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-09-02T09:00:00Z",
+    "summary": {
+      "ar": "إرسال للاعتماد",
+      "en": "Submitted for approval"
+    }
+  },
+  {
+    "id": "la-038",
+    "loanId": "ln-0005",
+    "action": "Cancelled",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-09-02T09:00:00Z",
+    "summary": {
+      "ar": "إلغاء الطلب",
+      "en": "Request cancelled"
+    }
+  },
+  {
+    "id": "la-010",
+    "loanId": "ln-0001",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-08-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 6 من راتب 2026-08",
+      "en": "Instalment 6 deducted from 2026-08 payroll"
+    }
+  },
+  {
+    "id": "la-019",
+    "loanId": "ln-0002",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-08-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 4 من راتب 2026-08",
+      "en": "Instalment 4 deducted from 2026-08 payroll"
+    }
+  },
+  {
+    "id": "la-052",
+    "loanId": "ln-0008",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-08-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 5 من راتب 2026-08",
+      "en": "Instalment 5 deducted from 2026-08 payroll"
+    }
+  },
+  {
+    "id": "la-067",
+    "loanId": "ln-0011",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-08-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 3 من راتب 2026-08",
+      "en": "Instalment 3 deducted from 2026-08 payroll"
+    }
+  },
+  {
+    "id": "la-055",
+    "loanId": "ln-0010",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-08-28T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء الطلب",
+      "en": "Request created"
+    }
+  },
+  {
+    "id": "la-056",
+    "loanId": "ln-0010",
+    "action": "Submitted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-08-28T09:00:00Z",
+    "summary": {
+      "ar": "إرسال للاعتماد",
+      "en": "Submitted for approval"
+    }
+  },
+  {
+    "id": "la-057",
+    "loanId": "ln-0010",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-08-28T09:00:00Z",
+    "summary": {
+      "ar": "اعتماد الطلب وتوليد جدول الأقساط",
+      "en": "Approved; instalment schedule generated"
+    }
+  },
+  {
+    "id": "la-058",
+    "loanId": "ln-0010",
+    "action": "Disbursed",
+    "actor": {
+      "name": {
+        "ar": "محمد العبيدي",
+        "en": "Mohammed Al-Obaidi"
+      },
+      "role": "financeAccountant"
+    },
+    "timestamp": "2026-08-28T09:00:00Z",
+    "summary": {
+      "ar": "صرف المبلغ — القيد JV-EMPLOAN-0006",
+      "en": "Disbursed — journal JV-EMPLOAN-0006"
+    }
+  },
+  {
+    "id": "la-009",
+    "loanId": "ln-0001",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-07-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 5 من راتب 2026-07",
+      "en": "Instalment 5 deducted from 2026-07 payroll"
+    }
+  },
+  {
+    "id": "la-018",
+    "loanId": "ln-0002",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-07-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 3 من راتب 2026-07",
+      "en": "Instalment 3 deducted from 2026-07 payroll"
+    }
+  },
+  {
+    "id": "la-051",
+    "loanId": "ln-0008",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-07-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 4 من راتب 2026-07",
+      "en": "Instalment 4 deducted from 2026-07 payroll"
+    }
+  },
+  {
+    "id": "la-066",
+    "loanId": "ln-0011",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-07-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 2 من راتب 2026-07",
+      "en": "Instalment 2 deducted from 2026-07 payroll"
+    }
+  },
+  {
+    "id": "la-008",
+    "loanId": "ln-0001",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-06-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 4 من راتب 2026-06",
+      "en": "Instalment 4 deducted from 2026-06 payroll"
+    }
+  },
+  {
+    "id": "la-017",
+    "loanId": "ln-0002",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-06-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 2 من راتب 2026-06",
+      "en": "Instalment 2 deducted from 2026-06 payroll"
+    }
+  },
+  {
+    "id": "la-034",
+    "loanId": "ln-0004",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-06-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 6 من راتب 2026-06",
+      "en": "Instalment 6 deducted from 2026-06 payroll"
+    }
+  },
+  {
+    "id": "la-050",
+    "loanId": "ln-0008",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-06-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 3 من راتب 2026-06",
+      "en": "Instalment 3 deducted from 2026-06 payroll"
+    }
+  },
+  {
+    "id": "la-065",
+    "loanId": "ln-0011",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-06-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 1 من راتب 2026-06",
+      "en": "Instalment 1 deducted from 2026-06 payroll"
+    }
+  },
+  {
+    "id": "la-035",
+    "loanId": "ln-0004",
+    "action": "Settled",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-06-30T09:00:00Z",
+    "summary": {
+      "ar": "سُدّد القرض بالكامل",
+      "en": "Loan fully repaid"
+    }
+  },
+  {
+    "id": "la-007",
+    "loanId": "ln-0001",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-05-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 3 من راتب 2026-05",
+      "en": "Instalment 3 deducted from 2026-05 payroll"
+    }
+  },
+  {
+    "id": "la-016",
+    "loanId": "ln-0002",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-05-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 1 من راتب 2026-05",
+      "en": "Instalment 1 deducted from 2026-05 payroll"
+    }
+  },
+  {
+    "id": "la-033",
+    "loanId": "ln-0004",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-05-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 5 من راتب 2026-05",
+      "en": "Instalment 5 deducted from 2026-05 payroll"
+    }
+  },
+  {
+    "id": "la-049",
+    "loanId": "ln-0008",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-05-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 2 من راتب 2026-05",
+      "en": "Instalment 2 deducted from 2026-05 payroll"
+    }
+  },
+  {
+    "id": "la-061",
+    "loanId": "ln-0011",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-05-12T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء الطلب",
+      "en": "Request created"
+    }
+  },
+  {
+    "id": "la-062",
+    "loanId": "ln-0011",
+    "action": "Submitted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-05-12T09:00:00Z",
+    "summary": {
+      "ar": "إرسال للاعتماد",
+      "en": "Submitted for approval"
+    }
+  },
+  {
+    "id": "la-063",
+    "loanId": "ln-0011",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-05-12T09:00:00Z",
+    "summary": {
+      "ar": "اعتماد الطلب وتوليد جدول الأقساط",
+      "en": "Approved; instalment schedule generated"
+    }
+  },
+  {
+    "id": "la-064",
+    "loanId": "ln-0011",
+    "action": "Disbursed",
+    "actor": {
+      "name": {
+        "ar": "محمد العبيدي",
+        "en": "Mohammed Al-Obaidi"
+      },
+      "role": "financeAccountant"
+    },
+    "timestamp": "2026-05-12T09:00:00Z",
+    "summary": {
+      "ar": "صرف المبلغ — القيد JV-EMPLOAN-0007",
+      "en": "Disbursed — journal JV-EMPLOAN-0007"
+    }
+  },
+  {
+    "id": "la-006",
+    "loanId": "ln-0001",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-04-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 2 من راتب 2026-04",
+      "en": "Instalment 2 deducted from 2026-04 payroll"
+    }
+  },
+  {
+    "id": "la-032",
+    "loanId": "ln-0004",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-04-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 4 من راتب 2026-04",
+      "en": "Instalment 4 deducted from 2026-04 payroll"
+    }
+  },
+  {
+    "id": "la-048",
+    "loanId": "ln-0008",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-04-30T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 1 من راتب 2026-04",
+      "en": "Instalment 1 deducted from 2026-04 payroll"
+    }
+  },
+  {
+    "id": "la-012",
+    "loanId": "ln-0002",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-04-14T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء الطلب",
+      "en": "Request created"
+    }
+  },
+  {
+    "id": "la-013",
+    "loanId": "ln-0002",
+    "action": "Submitted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-04-14T09:00:00Z",
+    "summary": {
+      "ar": "إرسال للاعتماد",
+      "en": "Submitted for approval"
+    }
+  },
+  {
+    "id": "la-014",
+    "loanId": "ln-0002",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-04-14T09:00:00Z",
+    "summary": {
+      "ar": "اعتماد الطلب وتوليد جدول الأقساط",
+      "en": "Approved; instalment schedule generated"
+    }
+  },
+  {
+    "id": "la-015",
+    "loanId": "ln-0002",
+    "action": "Disbursed",
+    "actor": {
+      "name": {
+        "ar": "محمد العبيدي",
+        "en": "Mohammed Al-Obaidi"
+      },
+      "role": "financeAccountant"
+    },
+    "timestamp": "2026-04-14T09:00:00Z",
+    "summary": {
+      "ar": "صرف المبلغ — القيد JV-EMPLOAN-0002",
+      "en": "Disbursed — journal JV-EMPLOAN-0002"
+    }
+  },
+  {
+    "id": "la-005",
+    "loanId": "ln-0001",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-03-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 1 من راتب 2026-03",
+      "en": "Instalment 1 deducted from 2026-03 payroll"
+    }
+  },
+  {
+    "id": "la-031",
+    "loanId": "ln-0004",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-03-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 3 من راتب 2026-03",
+      "en": "Instalment 3 deducted from 2026-03 payroll"
+    }
+  },
+  {
+    "id": "la-044",
+    "loanId": "ln-0008",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-03-20T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء الطلب",
+      "en": "Request created"
+    }
+  },
+  {
+    "id": "la-045",
+    "loanId": "ln-0008",
+    "action": "Submitted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-03-20T09:00:00Z",
+    "summary": {
+      "ar": "إرسال للاعتماد",
+      "en": "Submitted for approval"
+    }
+  },
+  {
+    "id": "la-046",
+    "loanId": "ln-0008",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-03-20T09:00:00Z",
+    "summary": {
+      "ar": "اعتماد الطلب وتوليد جدول الأقساط",
+      "en": "Approved; instalment schedule generated"
+    }
+  },
+  {
+    "id": "la-047",
+    "loanId": "ln-0008",
+    "action": "Disbursed",
+    "actor": {
+      "name": {
+        "ar": "محمد العبيدي",
+        "en": "Mohammed Al-Obaidi"
+      },
+      "role": "financeAccountant"
+    },
+    "timestamp": "2026-03-20T09:00:00Z",
+    "summary": {
+      "ar": "صرف المبلغ — القيد JV-EMPLOAN-0005",
+      "en": "Disbursed — journal JV-EMPLOAN-0005"
+    }
+  },
+  {
+    "id": "la-030",
+    "loanId": "ln-0004",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-02-28T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 2 من راتب 2026-02",
+      "en": "Instalment 2 deducted from 2026-02 payroll"
+    }
+  },
+  {
+    "id": "la-001",
+    "loanId": "ln-0001",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-02-10T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء الطلب",
+      "en": "Request created"
+    }
+  },
+  {
+    "id": "la-002",
+    "loanId": "ln-0001",
+    "action": "Submitted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-02-10T09:00:00Z",
+    "summary": {
+      "ar": "إرسال للاعتماد",
+      "en": "Submitted for approval"
+    }
+  },
+  {
+    "id": "la-003",
+    "loanId": "ln-0001",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2026-02-10T09:00:00Z",
+    "summary": {
+      "ar": "اعتماد الطلب وتوليد جدول الأقساط",
+      "en": "Approved; instalment schedule generated"
+    }
+  },
+  {
+    "id": "la-004",
+    "loanId": "ln-0001",
+    "action": "Disbursed",
+    "actor": {
+      "name": {
+        "ar": "محمد العبيدي",
+        "en": "Mohammed Al-Obaidi"
+      },
+      "role": "financeAccountant"
+    },
+    "timestamp": "2026-02-10T09:00:00Z",
+    "summary": {
+      "ar": "صرف المبلغ — القيد JV-EMPLOAN-0001",
+      "en": "Disbursed — journal JV-EMPLOAN-0001"
+    }
+  },
+  {
+    "id": "la-029",
+    "loanId": "ln-0004",
+    "action": "Deducted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2026-01-31T18:00:00Z",
+    "summary": {
+      "ar": "استقطاع القسط 1 من راتب 2026-01",
+      "en": "Instalment 1 deducted from 2026-01 payroll"
+    }
+  },
+  {
+    "id": "la-025",
+    "loanId": "ln-0004",
+    "action": "Created",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2025-12-18T09:00:00Z",
+    "summary": {
+      "ar": "إنشاء الطلب",
+      "en": "Request created"
+    }
+  },
+  {
+    "id": "la-026",
+    "loanId": "ln-0004",
+    "action": "Submitted",
+    "actor": {
+      "name": {
+        "ar": "هبة الجبوري",
+        "en": "Hiba Al-Jubouri"
+      },
+      "role": "payrollOfficer"
+    },
+    "timestamp": "2025-12-18T09:00:00Z",
+    "summary": {
+      "ar": "إرسال للاعتماد",
+      "en": "Submitted for approval"
+    }
+  },
+  {
+    "id": "la-027",
+    "loanId": "ln-0004",
+    "action": "Approved",
+    "actor": {
+      "name": {
+        "ar": "سلمى الكربولي",
+        "en": "Salma Al-Karbouli"
+      },
+      "role": "hrManager"
+    },
+    "timestamp": "2025-12-18T09:00:00Z",
+    "summary": {
+      "ar": "اعتماد الطلب وتوليد جدول الأقساط",
+      "en": "Approved; instalment schedule generated"
+    }
+  },
+  {
+    "id": "la-028",
+    "loanId": "ln-0004",
+    "action": "Disbursed",
+    "actor": {
+      "name": {
+        "ar": "محمد العبيدي",
+        "en": "Mohammed Al-Obaidi"
+      },
+      "role": "financeAccountant"
+    },
+    "timestamp": "2025-12-18T09:00:00Z",
+    "summary": {
+      "ar": "صرف المبلغ — القيد JV-EMPLOAN-0004",
+      "en": "Disbursed — journal JV-EMPLOAN-0004"
+    }
+  }
+]
